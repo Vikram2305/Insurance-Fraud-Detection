@@ -1,0 +1,1001 @@
+age,insured_sex,insured_occupation,insured_relationship,incident_severity,property_damage,police_report_available,collision_type,policy_state,insured_education_level,auto_make,auto_year,fraud_reported
+48,MALE,craft-repair,husband,Major Damage,YES,YES,Side Collision,OH,MD,Saab,2004,Y
+42,MALE,machine-op-inspct,other-relative,Minor Damage,?,?,?,IN,MD,Mercedes,2007,Y
+29,FEMALE,sales,own-child,Minor Damage,NO,NO,Rear Collision,OH,PhD,Dodge,2007,N
+41,FEMALE,armed-forces,unmarried,Major Damage,?,NO,Front Collision,IL,PhD,Chevrolet,2014,Y
+44,MALE,sales,unmarried,Minor Damage,NO,NO,?,IL,Associate,Accura,2009,N
+39,FEMALE,tech-support,unmarried,Major Damage,NO,NO,Rear Collision,OH,PhD,Saab,2003,Y
+34,MALE,prof-specialty,husband,Minor Damage,?,?,Front Collision,IN,PhD,Nissan,2012,N
+37,MALE,tech-support,unmarried,Total Loss,?,YES,Front Collision,IL,Associate,Audi,2015,N
+33,FEMALE,other-service,own-child,Total Loss,NO,YES,Front Collision,IL,PhD,Toyota,2012,N
+42,MALE,priv-house-serv,wife,Total Loss,NO,?,Rear Collision,IL,PhD,Saab,1996,N
+42,FEMALE,exec-managerial,other-relative,Total Loss,YES,?,Front Collision,OH,Masters,Ford,2002,N
+61,FEMALE,exec-managerial,other-relative,Major Damage,YES,YES,Front Collision,OH,High School,Audi,2006,N
+23,MALE,protective-serv,wife,Total Loss,YES,NO,Rear Collision,OH,MD,Saab,2000,N
+34,FEMALE,armed-forces,wife,Minor Damage,NO,NO,?,OH,MD,Toyota,2010,N
+38,FEMALE,machine-op-inspct,not-in-family,Total Loss,NO,YES,Rear Collision,OH,College,Dodge,2003,Y
+58,FEMALE,transport-moving,other-relative,Major Damage,YES,NO,Side Collision,IN,MD,Accura,1999,Y
+26,MALE,machine-op-inspct,own-child,Major Damage,?,YES,Rear Collision,OH,College,Nissan,2012,N
+31,MALE,machine-op-inspct,unmarried,Total Loss,NO,YES,Side Collision,IN,High School,Suburu,2015,N
+37,FEMALE,craft-repair,other-relative,Total Loss,YES,NO,Side Collision,OH,MD,Accura,2015,N
+39,FEMALE,handlers-cleaners,own-child,Major Damage,?,NO,Side Collision,IN,High School,Nissan,2014,N
+62,MALE,other-service,own-child,Minor Damage,NO,?,Rear Collision,IN,JD,Suburu,2011,N
+41,FEMALE,machine-op-inspct,own-child,Total Loss,?,?,Side Collision,IL,Associate,Accura,1996,N
+55,MALE,prof-specialty,other-relative,Major Damage,NO,YES,Rear Collision,IL,High School,Suburu,2000,Y
+55,MALE,priv-house-serv,own-child,Total Loss,?,?,Front Collision,IN,MD,Dodge,2011,Y
+40,MALE,craft-repair,husband,Minor Damage,NO,NO,Rear Collision,IN,College,Ford,2005,N
+35,MALE,sales,own-child,Major Damage,NO,YES,Rear Collision,OH,Masters,Ford,2006,Y
+43,MALE,prof-specialty,own-child,Minor Damage,YES,YES,?,IN,High School,Toyota,2005,N
+34,MALE,exec-managerial,not-in-family,Minor Damage,YES,?,?,IN,JD,Suburu,2003,Y
+40,FEMALE,sales,not-in-family,Minor Damage,NO,YES,Side Collision,OH,JD,Dodge,2009,N
+45,FEMALE,machine-op-inspct,unmarried,Minor Damage,NO,NO,Rear Collision,IL,PhD,Accura,2011,N
+25,MALE,prof-specialty,husband,Major Damage,NO,?,Side Collision,IL,Masters,Toyota,2005,N
+37,MALE,craft-repair,husband,Major Damage,NO,?,Side Collision,IL,JD,Ford,2006,Y
+35,FEMALE,adm-clerical,other-relative,Total Loss,YES,NO,Front Collision,IL,Associate,BMW,2008,N
+30,MALE,farming-fishing,wife,Major Damage,NO,?,Front Collision,IL,High School,Suburu,2015,N
+37,MALE,prof-specialty,own-child,Total Loss,YES,YES,Side Collision,IL,PhD,Audi,1999,N
+33,MALE,craft-repair,not-in-family,Major Damage,YES,YES,Front Collision,OH,High School,Mercedes,1995,Y
+28,FEMALE,protective-serv,unmarried,Total Loss,?,YES,Rear Collision,IL,Masters,Suburu,2004,Y
+49,FEMALE,priv-house-serv,unmarried,Minor Damage,NO,YES,?,IL,JD,Suburu,2001,N
+54,FEMALE,craft-repair,unmarried,Major Damage,?,?,Rear Collision,IN,MD,Jeep,2007,N
+37,MALE,tech-support,wife,Major Damage,?,NO,Front Collision,IN,JD,Nissan,2011,Y
+26,MALE,tech-support,not-in-family,Minor Damage,NO,?,Rear Collision,IL,Associate,BMW,2010,N
+34,MALE,transport-moving,unmarried,Major Damage,?,?,Side Collision,IN,Associate,BMW,2001,Y
+23,FEMALE,prof-specialty,husband,Minor Damage,YES,NO,Side Collision,IL,College,Dodge,2010,N
+30,FEMALE,transport-moving,own-child,Total Loss,NO,NO,Rear Collision,OH,PhD,Mercedes,2005,N
+44,MALE,priv-house-serv,unmarried,Minor Damage,YES,?,Front Collision,IL,JD,Toyota,2014,N
+40,FEMALE,protective-serv,husband,Total Loss,NO,?,Rear Collision,IL,MD,Accura,2002,N
+33,FEMALE,other-service,husband,Total Loss,YES,?,Rear Collision,IN,Associate,Honda,2014,N
+47,MALE,other-service,husband,Major Damage,NO,NO,Front Collision,OH,College,Audi,2003,Y
+34,FEMALE,protective-serv,other-relative,Trivial Damage,?,YES,?,IN,PhD,Volkswagen,1995,N
+35,FEMALE,exec-managerial,wife,Total Loss,NO,?,Rear Collision,IL,Masters,Mercedes,2000,N
+59,MALE,other-service,own-child,Minor Damage,?,YES,Front Collision,OH,MD,Nissan,1998,N
+27,FEMALE,farming-fishing,husband,Trivial Damage,?,?,?,IL,JD,BMW,2008,N
+39,MALE,armed-forces,not-in-family,Minor Damage,?,YES,?,IN,College,Toyota,2000,N
+40,FEMALE,priv-house-serv,husband,Major Damage,YES,?,Side Collision,IN,JD,Suburu,1999,N
+39,MALE,machine-op-inspct,not-in-family,Minor Damage,NO,YES,?,OH,PhD,Ford,2009,N
+26,MALE,craft-repair,not-in-family,Minor Damage,YES,NO,Rear Collision,OH,PhD,Chevrolet,1995,N
+56,FEMALE,prof-specialty,unmarried,Major Damage,?,?,Front Collision,IN,PhD,Honda,2014,N
+32,FEMALE,adm-clerical,own-child,Minor Damage,NO,NO,?,IN,Masters,Chevrolet,2014,N
+39,MALE,other-service,husband,Total Loss,YES,NO,Front Collision,IL,PhD,Saab,2007,N
+36,FEMALE,adm-clerical,own-child,Minor Damage,NO,NO,Side Collision,OH,MD,Ford,2000,N
+34,MALE,machine-op-inspct,other-relative,Major Damage,YES,?,Rear Collision,IN,PhD,Nissan,2014,Y
+44,MALE,handlers-cleaners,husband,Total Loss,NO,NO,Side Collision,IL,JD,Honda,1997,N
+32,MALE,armed-forces,unmarried,Minor Damage,NO,YES,Side Collision,IL,High School,BMW,2011,N
+42,MALE,transport-moving,own-child,Major Damage,YES,YES,Front Collision,OH,JD,Suburu,2003,Y
+42,MALE,sales,not-in-family,Total Loss,NO,NO,Rear Collision,OH,PhD,Ford,2006,Y
+39,FEMALE,exec-managerial,other-relative,Minor Damage,YES,NO,Front Collision,IN,MD,Dodge,1995,Y
+31,FEMALE,tech-support,not-in-family,Minor Damage,YES,NO,Side Collision,IN,High School,Audi,2009,Y
+64,FEMALE,adm-clerical,unmarried,Minor Damage,NO,NO,Side Collision,OH,Associate,BMW,1998,N
+30,MALE,machine-op-inspct,own-child,Major Damage,NO,NO,Front Collision,OH,MD,Audi,1997,N
+49,MALE,other-service,own-child,Minor Damage,NO,?,?,IN,MD,Ford,2004,N
+42,FEMALE,prof-specialty,own-child,Major Damage,?,?,Side Collision,OH,Associate,Audi,2003,Y
+41,FEMALE,armed-forces,not-in-family,Total Loss,NO,NO,Front Collision,OH,MD,Honda,1995,Y
+41,FEMALE,sales,husband,Minor Damage,NO,NO,Rear Collision,OH,Associate,Chevrolet,1999,N
+37,FEMALE,transport-moving,not-in-family,Minor Damage,NO,YES,Rear Collision,IN,College,Mercedes,2002,N
+40,FEMALE,sales,wife,Minor Damage,YES,YES,Side Collision,IL,Associate,BMW,2005,N
+35,FEMALE,transport-moving,other-relative,Total Loss,NO,NO,Front Collision,OH,High School,Ford,2010,N
+45,FEMALE,handlers-cleaners,husband,Minor Damage,NO,YES,Front Collision,OH,College,Suburu,1998,N
+47,MALE,transport-moving,not-in-family,Total Loss,NO,?,Front Collision,IN,College,Audi,2005,N
+39,FEMALE,other-service,wife,Minor Damage,YES,YES,?,OH,JD,Saab,2004,N
+38,FEMALE,handlers-cleaners,unmarried,Major Damage,?,?,Rear Collision,OH,PhD,BMW,2013,Y
+31,MALE,exec-managerial,husband,Minor Damage,NO,NO,Side Collision,OH,High School,Accura,2005,N
+40,FEMALE,exec-managerial,wife,Trivial Damage,?,?,?,OH,Masters,Accura,2005,N
+29,MALE,other-service,other-relative,Minor Damage,YES,NO,?,IL,Masters,Nissan,2002,N
+35,MALE,exec-managerial,wife,Trivial Damage,NO,YES,?,IN,High School,Volkswagen,2002,N
+48,MALE,prof-specialty,not-in-family,Major Damage,?,NO,Side Collision,IN,Masters,Audi,2013,Y
+41,MALE,transport-moving,own-child,Major Damage,YES,?,Front Collision,OH,High School,Suburu,2007,N
+34,FEMALE,priv-house-serv,husband,Minor Damage,NO,?,Front Collision,IL,Associate,Ford,2007,N
+32,FEMALE,other-service,own-child,Total Loss,?,YES,Side Collision,IL,MD,BMW,2015,N
+36,FEMALE,prof-specialty,not-in-family,Trivial Damage,NO,YES,?,IL,College,Dodge,2002,N
+25,FEMALE,exec-managerial,not-in-family,Major Damage,YES,?,Side Collision,IN,College,Accura,2011,Y
+29,FEMALE,sales,own-child,Total Loss,YES,?,Front Collision,OH,High School,Saab,1995,N
+23,FEMALE,tech-support,own-child,Major Damage,NO,?,Side Collision,IL,Associate,Honda,2004,Y
+42,MALE,farming-fishing,own-child,Trivial Damage,NO,NO,?,IL,PhD,BMW,2007,N
+43,FEMALE,exec-managerial,not-in-family,Major Damage,NO,?,Front Collision,IN,MD,Ford,2009,N
+42,FEMALE,machine-op-inspct,not-in-family,Total Loss,NO,NO,Rear Collision,IL,High School,Mercedes,2005,N
+25,FEMALE,armed-forces,husband,Minor Damage,NO,YES,?,IL,PhD,Toyota,2001,N
+47,FEMALE,protective-serv,not-in-family,Major Damage,YES,NO,Side Collision,IN,Associate,Dodge,2006,Y
+25,MALE,farming-fishing,own-child,Minor Damage,YES,YES,Rear Collision,IL,Masters,Nissan,2013,Y
+48,FEMALE,machine-op-inspct,wife,Trivial Damage,?,YES,?,OH,College,Saab,1999,N
+42,MALE,exec-managerial,not-in-family,Trivial Damage,NO,?,?,IL,College,Audi,2007,N
+41,FEMALE,protective-serv,not-in-family,Minor Damage,YES,?,Rear Collision,IN,College,Saab,2007,N
+27,FEMALE,tech-support,unmarried,Major Damage,YES,YES,Side Collision,IL,College,Saab,2004,N
+41,FEMALE,prof-specialty,husband,Minor Damage,?,NO,Front Collision,IL,JD,Ford,2013,N
+33,FEMALE,tech-support,other-relative,Minor Damage,NO,NO,?,OH,Associate,Toyota,2008,N
+54,MALE,other-service,wife,Total Loss,NO,?,Side Collision,OH,College,Chevrolet,2014,N
+49,MALE,prof-specialty,husband,Minor Damage,YES,YES,?,IL,College,Mercedes,2002,N
+61,FEMALE,prof-specialty,husband,Major Damage,?,YES,Rear Collision,OH,Associate,Saab,2000,Y
+28,FEMALE,handlers-cleaners,own-child,Major Damage,NO,?,Front Collision,IN,High School,Volkswagen,1997,N
+47,FEMALE,machine-op-inspct,other-relative,Major Damage,?,?,Front Collision,IL,PhD,Saab,2000,Y
+31,FEMALE,sales,husband,Major Damage,NO,YES,Rear Collision,IN,Masters,Nissan,2006,Y
+42,FEMALE,prof-specialty,unmarried,Minor Damage,?,YES,Rear Collision,OH,College,Dodge,2010,N
+60,MALE,craft-repair,unmarried,Major Damage,YES,?,Front Collision,IN,PhD,Ford,2015,Y
+41,MALE,exec-managerial,other-relative,Total Loss,?,NO,Rear Collision,IL,High School,BMW,2001,N
+32,MALE,protective-serv,own-child,Major Damage,?,?,Side Collision,IN,MD,Saab,2007,N
+51,MALE,armed-forces,other-relative,Minor Damage,YES,YES,?,OH,Associate,Ford,2001,N
+46,MALE,machine-op-inspct,other-relative,Total Loss,NO,?,Side Collision,IN,MD,Accura,1997,Y
+31,FEMALE,machine-op-inspct,other-relative,Minor Damage,NO,NO,Rear Collision,IL,PhD,Suburu,2002,N
+41,MALE,exec-managerial,unmarried,Major Damage,?,NO,Side Collision,OH,High School,Toyota,2011,Y
+38,FEMALE,transport-moving,not-in-family,Minor Damage,NO,YES,Rear Collision,IL,PhD,Ford,2015,N
+39,FEMALE,adm-clerical,husband,Minor Damage,?,?,Rear Collision,OH,Associate,BMW,2010,N
+41,MALE,priv-house-serv,other-relative,Minor Damage,NO,?,Side Collision,IL,High School,Volkswagen,2000,N
+36,FEMALE,other-service,other-relative,Major Damage,NO,NO,Front Collision,IL,MD,Ford,2008,Y
+38,FEMALE,other-service,not-in-family,Major Damage,?,YES,Front Collision,IL,Masters,Nissan,1999,Y
+25,FEMALE,prof-specialty,other-relative,Total Loss,YES,NO,Front Collision,OH,College,Accura,1995,N
+35,FEMALE,prof-specialty,not-in-family,Total Loss,YES,?,Rear Collision,IL,JD,BMW,2011,N
+39,MALE,craft-repair,unmarried,Total Loss,NO,YES,Rear Collision,IN,JD,Ford,2013,N
+38,MALE,protective-serv,unmarried,Total Loss,NO,?,Side Collision,IL,MD,Suburu,2001,N
+32,FEMALE,tech-support,own-child,Minor Damage,?,?,?,IN,High School,BMW,1998,N
+43,MALE,farming-fishing,wife,Major Damage,YES,YES,Front Collision,OH,College,BMW,2006,Y
+28,FEMALE,sales,husband,Major Damage,?,?,Front Collision,IL,Masters,Saab,2000,Y
+45,MALE,machine-op-inspct,wife,Minor Damage,YES,NO,Front Collision,IN,JD,Ford,1999,N
+39,MALE,adm-clerical,own-child,Major Damage,?,NO,Front Collision,IN,Masters,Dodge,2012,N
+27,FEMALE,tech-support,unmarried,Major Damage,?,?,Front Collision,OH,Masters,Nissan,2013,N
+33,FEMALE,machine-op-inspct,wife,Total Loss,?,NO,Side Collision,IL,High School,Jeep,2002,N
+32,MALE,exec-managerial,unmarried,Minor Damage,?,?,Side Collision,OH,PhD,BMW,2006,N
+34,FEMALE,exec-managerial,other-relative,Major Damage,NO,?,Rear Collision,IN,College,Volkswagen,1996,Y
+40,FEMALE,sales,other-relative,Minor Damage,?,NO,?,IL,High School,Ford,2015,N
+28,FEMALE,tech-support,not-in-family,Minor Damage,NO,?,Rear Collision,IL,PhD,BMW,2010,N
+46,FEMALE,prof-specialty,wife,Minor Damage,?,YES,Rear Collision,IL,High School,Toyota,1999,N
+32,FEMALE,other-service,not-in-family,Total Loss,NO,YES,Front Collision,IL,MD,BMW,1995,N
+35,MALE,machine-op-inspct,other-relative,Total Loss,YES,?,Rear Collision,OH,Masters,Mercedes,2008,N
+41,MALE,transport-moving,wife,Trivial Damage,?,?,?,IL,Masters,Suburu,2001,N
+34,MALE,machine-op-inspct,own-child,Minor Damage,?,YES,?,IN,PhD,Chevrolet,2013,N
+29,MALE,exec-managerial,other-relative,Major Damage,?,?,Rear Collision,IN,MD,Accura,2012,Y
+31,FEMALE,farming-fishing,wife,Total Loss,?,YES,Rear Collision,IL,JD,Accura,2011,N
+58,FEMALE,exec-managerial,wife,Major Damage,YES,?,Front Collision,OH,Associate,Accura,2002,Y
+41,MALE,tech-support,not-in-family,Major Damage,?,NO,Side Collision,IL,Masters,BMW,1996,Y
+38,FEMALE,other-service,other-relative,Minor Damage,?,?,Front Collision,OH,MD,Nissan,2014,N
+27,MALE,adm-clerical,not-in-family,Major Damage,NO,?,Rear Collision,IL,PhD,Volkswagen,2007,Y
+41,FEMALE,craft-repair,not-in-family,Major Damage,?,YES,Side Collision,OH,JD,Suburu,2011,Y
+32,FEMALE,farming-fishing,wife,Total Loss,?,?,Side Collision,OH,PhD,Audi,2014,N
+45,MALE,priv-house-serv,husband,Major Damage,?,?,Rear Collision,IL,Masters,Mercedes,2009,N
+32,MALE,exec-managerial,own-child,Total Loss,YES,YES,Rear Collision,IN,High School,Volkswagen,2006,Y
+54,FEMALE,craft-repair,own-child,Total Loss,NO,?,Rear Collision,OH,Masters,Suburu,1997,N
+33,FEMALE,other-service,own-child,Minor Damage,NO,?,Rear Collision,OH,Masters,Saab,2013,Y
+50,MALE,sales,other-relative,Major Damage,YES,NO,Front Collision,OH,Associate,Audi,1996,Y
+61,MALE,exec-managerial,husband,Minor Damage,?,YES,Rear Collision,OH,JD,Jeep,2006,N
+59,FEMALE,prof-specialty,other-relative,Minor Damage,?,NO,?,IN,JD,Saab,2013,N
+38,MALE,machine-op-inspct,not-in-family,Total Loss,?,?,Front Collision,IN,Masters,Suburu,2013,N
+29,FEMALE,transport-moving,other-relative,Minor Damage,?,?,?,OH,JD,Honda,1999,N
+36,FEMALE,priv-house-serv,unmarried,Minor Damage,YES,?,?,IN,Associate,Mercedes,2014,N
+48,FEMALE,farming-fishing,not-in-family,Total Loss,?,?,Front Collision,IN,MD,Chevrolet,1997,N
+48,FEMALE,exec-managerial,unmarried,Total Loss,NO,YES,Side Collision,OH,MD,Volkswagen,2002,N
+30,FEMALE,prof-specialty,not-in-family,Major Damage,YES,NO,Front Collision,OH,Masters,Dodge,1997,Y
+34,FEMALE,prof-specialty,unmarried,Total Loss,NO,YES,Rear Collision,IL,Masters,Mercedes,2011,N
+29,FEMALE,armed-forces,not-in-family,Minor Damage,NO,YES,Side Collision,IN,PhD,Suburu,2012,N
+28,FEMALE,craft-repair,unmarried,Major Damage,?,YES,Rear Collision,OH,Associate,Audi,2012,Y
+45,MALE,farming-fishing,unmarried,Minor Damage,NO,NO,Front Collision,IL,High School,Saab,1999,N
+46,FEMALE,machine-op-inspct,husband,Trivial Damage,?,NO,?,IL,Masters,Toyota,2015,N
+37,MALE,other-service,not-in-family,Minor Damage,NO,NO,?,IN,High School,Jeep,2011,N
+42,MALE,armed-forces,not-in-family,Minor Damage,YES,?,Rear Collision,IL,Associate,Jeep,2006,N
+28,MALE,machine-op-inspct,husband,Total Loss,?,YES,Rear Collision,OH,High School,Volkswagen,2007,Y
+29,MALE,protective-serv,wife,Total Loss,YES,?,Rear Collision,IL,College,Dodge,2001,N
+31,FEMALE,transport-moving,wife,Major Damage,?,YES,Front Collision,IN,MD,Volkswagen,2014,N
+44,FEMALE,farming-fishing,unmarried,Trivial Damage,NO,NO,?,IL,PhD,Ford,2002,N
+46,MALE,tech-support,wife,Minor Damage,?,YES,Rear Collision,IN,MD,Jeep,2011,N
+34,MALE,protective-serv,other-relative,Minor Damage,NO,YES,Front Collision,IN,Masters,Honda,1998,N
+45,FEMALE,prof-specialty,other-relative,Minor Damage,YES,?,Rear Collision,IL,PhD,Volkswagen,2003,N
+40,FEMALE,armed-forces,other-relative,Total Loss,YES,NO,Front Collision,IN,Masters,Chevrolet,1998,N
+39,MALE,tech-support,wife,Trivial Damage,?,NO,?,IL,MD,Chevrolet,2010,N
+36,MALE,handlers-cleaners,not-in-family,Major Damage,?,YES,Side Collision,OH,Associate,Audi,2006,N
+54,FEMALE,adm-clerical,not-in-family,Minor Damage,YES,?,Side Collision,IL,Masters,Dodge,1997,N
+27,FEMALE,tech-support,husband,Total Loss,YES,NO,Side Collision,IN,Masters,Accura,2009,N
+26,MALE,tech-support,other-relative,Minor Damage,?,YES,Rear Collision,OH,JD,Chevrolet,2011,Y
+46,MALE,craft-repair,not-in-family,Major Damage,?,NO,Front Collision,OH,Masters,Mercedes,2013,N
+35,MALE,tech-support,husband,Total Loss,YES,NO,Front Collision,OH,JD,Mercedes,2007,Y
+34,FEMALE,tech-support,unmarried,Total Loss,?,NO,Front Collision,IL,JD,Audi,2009,N
+39,FEMALE,protective-serv,other-relative,Minor Damage,YES,YES,?,IN,JD,Chevrolet,2010,N
+25,FEMALE,tech-support,own-child,Major Damage,?,?,Rear Collision,IN,High School,Honda,2003,Y
+28,FEMALE,adm-clerical,other-relative,Total Loss,NO,YES,Rear Collision,OH,High School,Honda,2007,N
+57,MALE,tech-support,own-child,Minor Damage,YES,YES,?,OH,Associate,Volkswagen,2008,N
+39,MALE,farming-fishing,unmarried,Minor Damage,?,?,Side Collision,IN,JD,Nissan,2001,N
+47,FEMALE,handlers-cleaners,unmarried,Total Loss,NO,NO,Front Collision,OH,MD,Mercedes,2012,N
+32,MALE,other-service,husband,Minor Damage,YES,YES,?,OH,High School,Nissan,2015,N
+26,MALE,farming-fishing,not-in-family,Total Loss,?,YES,Rear Collision,IL,MD,Chevrolet,2003,N
+44,MALE,handlers-cleaners,husband,Total Loss,YES,NO,Side Collision,IL,High School,Saab,2006,N
+36,MALE,armed-forces,own-child,Trivial Damage,?,NO,?,IN,MD,Jeep,2001,Y
+43,FEMALE,adm-clerical,not-in-family,Trivial Damage,YES,?,?,OH,MD,Accura,2006,N
+48,MALE,armed-forces,own-child,Major Damage,YES,NO,Front Collision,IL,Masters,Honda,2014,N
+43,FEMALE,sales,other-relative,Minor Damage,?,?,?,OH,College,BMW,1997,N
+31,MALE,craft-repair,not-in-family,Trivial Damage,NO,YES,?,IL,PhD,Suburu,2011,N
+49,MALE,transport-moving,not-in-family,Minor Damage,?,YES,Rear Collision,OH,PhD,Suburu,2006,N
+39,FEMALE,protective-serv,unmarried,Trivial Damage,NO,NO,?,IN,High School,Chevrolet,2015,N
+62,MALE,machine-op-inspct,wife,Major Damage,YES,?,Rear Collision,IL,PhD,Chevrolet,2009,N
+39,MALE,sales,husband,Total Loss,NO,?,Rear Collision,IL,JD,Saab,1995,N
+43,FEMALE,tech-support,not-in-family,Minor Damage,NO,NO,Rear Collision,OH,Masters,BMW,2011,N
+32,FEMALE,sales,other-relative,Total Loss,?,NO,Rear Collision,OH,College,Ford,1999,Y
+29,MALE,handlers-cleaners,husband,Major Damage,?,YES,Side Collision,OH,Masters,Audi,2005,N
+48,MALE,adm-clerical,husband,Total Loss,NO,NO,Side Collision,IN,JD,Mercedes,2003,N
+53,MALE,sales,not-in-family,Trivial Damage,NO,NO,?,IN,Associate,Suburu,2002,N
+24,FEMALE,handlers-cleaners,other-relative,Minor Damage,NO,NO,?,OH,High School,Toyota,2015,N
+37,MALE,priv-house-serv,not-in-family,Trivial Damage,?,?,?,IN,High School,Dodge,1999,N
+50,MALE,sales,other-relative,Minor Damage,YES,YES,Side Collision,OH,High School,Volkswagen,2009,N
+40,FEMALE,prof-specialty,wife,Major Damage,?,?,Side Collision,OH,MD,Dodge,2004,Y
+33,FEMALE,exec-managerial,wife,Total Loss,YES,?,Side Collision,IN,JD,Suburu,2009,Y
+43,MALE,craft-repair,other-relative,Minor Damage,?,YES,Side Collision,OH,PhD,Audi,2006,Y
+26,FEMALE,machine-op-inspct,unmarried,Minor Damage,NO,NO,Front Collision,IL,High School,Audi,2008,N
+28,MALE,transport-moving,not-in-family,Trivial Damage,?,NO,?,OH,Masters,BMW,2004,N
+46,FEMALE,prof-specialty,not-in-family,Total Loss,?,?,Rear Collision,IL,MD,Saab,1998,Y
+43,MALE,priv-house-serv,other-relative,Minor Damage,NO,NO,Side Collision,OH,College,BMW,1999,N
+44,MALE,farming-fishing,other-relative,Major Damage,YES,YES,Front Collision,OH,College,Honda,2009,Y
+49,FEMALE,other-service,own-child,Minor Damage,NO,NO,Front Collision,OH,College,Jeep,2012,N
+50,FEMALE,sales,husband,Total Loss,YES,NO,Side Collision,IL,High School,Chevrolet,1995,N
+50,MALE,sales,wife,Total Loss,?,NO,Side Collision,IL,Associate,Mercedes,1995,N
+38,FEMALE,tech-support,not-in-family,Major Damage,?,YES,Side Collision,IN,Associate,Accura,2008,N
+41,MALE,exec-managerial,unmarried,Total Loss,YES,YES,Front Collision,IN,Masters,Jeep,1999,N
+52,FEMALE,other-service,own-child,Minor Damage,YES,?,Rear Collision,IL,High School,Accura,2010,N
+52,FEMALE,prof-specialty,not-in-family,Major Damage,?,NO,Front Collision,IL,Associate,Toyota,2005,Y
+53,FEMALE,craft-repair,unmarried,Total Loss,YES,NO,Front Collision,IL,MD,Saab,2015,N
+37,FEMALE,farming-fishing,other-relative,Minor Damage,?,NO,Rear Collision,IL,MD,Accura,2000,N
+34,FEMALE,machine-op-inspct,wife,Total Loss,NO,YES,Side Collision,OH,High School,Honda,2005,N
+46,MALE,prof-specialty,own-child,Minor Damage,NO,YES,Side Collision,OH,JD,Volkswagen,2005,N
+42,FEMALE,machine-op-inspct,husband,Total Loss,?,YES,Side Collision,IN,Masters,Toyota,2006,N
+35,MALE,handlers-cleaners,own-child,Major Damage,?,NO,Rear Collision,IL,MD,Nissan,1999,N
+28,MALE,farming-fishing,other-relative,Major Damage,?,YES,Front Collision,IN,JD,Audi,2015,Y
+54,MALE,transport-moving,unmarried,Minor Damage,NO,?,Side Collision,IN,Masters,Nissan,2009,N
+32,MALE,craft-repair,unmarried,Total Loss,YES,NO,Front Collision,IN,JD,Dodge,1999,N
+26,MALE,sales,own-child,Total Loss,NO,NO,Rear Collision,IL,MD,Audi,1996,Y
+41,FEMALE,farming-fishing,own-child,Major Damage,?,?,Side Collision,OH,Associate,Saab,2010,N
+37,FEMALE,farming-fishing,own-child,Minor Damage,YES,?,Front Collision,IN,Masters,Suburu,1999,N
+43,FEMALE,armed-forces,own-child,Major Damage,?,YES,Front Collision,IL,MD,Saab,2015,N
+38,FEMALE,adm-clerical,other-relative,Major Damage,YES,NO,Front Collision,IL,College,Chevrolet,2001,Y
+40,FEMALE,exec-managerial,other-relative,Trivial Damage,?,YES,?,OH,JD,Nissan,2001,N
+36,FEMALE,tech-support,own-child,Total Loss,?,NO,Rear Collision,IL,College,Dodge,2012,N
+28,MALE,armed-forces,other-relative,Trivial Damage,YES,NO,?,OH,Associate,Mercedes,2014,N
+51,FEMALE,tech-support,other-relative,Major Damage,YES,YES,Rear Collision,IN,Associate,Dodge,2012,Y
+28,FEMALE,machine-op-inspct,not-in-family,Minor Damage,YES,YES,Side Collision,IL,JD,Saab,2008,N
+44,FEMALE,other-service,own-child,Total Loss,?,?,Rear Collision,OH,JD,Chevrolet,2010,Y
+27,MALE,machine-op-inspct,other-relative,Minor Damage,?,NO,?,IL,Masters,Mercedes,2009,N
+30,FEMALE,armed-forces,other-relative,Major Damage,?,YES,Rear Collision,IN,High School,Chevrolet,2001,N
+28,FEMALE,transport-moving,unmarried,Total Loss,YES,?,Rear Collision,OH,Associate,Suburu,2009,Y
+27,MALE,sales,other-relative,Major Damage,NO,NO,Side Collision,OH,MD,Ford,2011,Y
+40,FEMALE,transport-moving,husband,Trivial Damage,YES,NO,?,OH,High School,Saab,1998,N
+61,MALE,transport-moving,wife,Major Damage,?,NO,Side Collision,OH,PhD,Nissan,2004,Y
+23,FEMALE,tech-support,wife,Major Damage,NO,NO,Rear Collision,OH,JD,Chevrolet,2002,Y
+57,FEMALE,farming-fishing,own-child,Major Damage,NO,?,Side Collision,IL,High School,Dodge,1995,N
+36,MALE,craft-repair,other-relative,Total Loss,YES,YES,Side Collision,IL,Associate,Accura,2004,N
+43,MALE,machine-op-inspct,other-relative,Major Damage,YES,NO,Side Collision,OH,Associate,Mercedes,2010,Y
+40,FEMALE,sales,husband,Trivial Damage,YES,YES,?,IL,MD,Toyota,2014,N
+30,FEMALE,exec-managerial,unmarried,Major Damage,?,YES,Rear Collision,OH,PhD,Suburu,1995,Y
+29,FEMALE,priv-house-serv,other-relative,Trivial Damage,?,NO,?,OH,Masters,Dodge,2014,N
+31,MALE,other-service,husband,Major Damage,?,?,Front Collision,IL,PhD,Ford,2013,Y
+43,MALE,machine-op-inspct,husband,Major Damage,NO,?,Rear Collision,OH,College,Volkswagen,2013,Y
+40,MALE,armed-forces,other-relative,Minor Damage,?,?,Side Collision,IN,Masters,Dodge,2001,N
+30,FEMALE,protective-serv,wife,Minor Damage,NO,YES,Side Collision,IL,MD,Volkswagen,2010,N
+57,FEMALE,craft-repair,own-child,Trivial Damage,NO,NO,?,IL,High School,Audi,1999,N
+45,MALE,machine-op-inspct,wife,Major Damage,?,?,Side Collision,IL,JD,Toyota,2006,Y
+29,FEMALE,handlers-cleaners,unmarried,Minor Damage,NO,?,Rear Collision,IN,JD,BMW,2009,N
+37,MALE,protective-serv,other-relative,Major Damage,YES,NO,Rear Collision,OH,Associate,Nissan,2001,N
+36,FEMALE,machine-op-inspct,wife,Total Loss,YES,YES,Front Collision,IN,Associate,Chevrolet,2007,N
+55,MALE,handlers-cleaners,husband,Minor Damage,?,YES,Rear Collision,OH,College,Toyota,2003,N
+40,FEMALE,other-service,wife,Minor Damage,NO,NO,?,IL,Associate,Audi,2012,N
+47,MALE,craft-repair,other-relative,Major Damage,YES,?,Front Collision,IL,MD,Jeep,2010,Y
+26,FEMALE,armed-forces,wife,Minor Damage,?,NO,Rear Collision,OH,JD,Nissan,2002,N
+39,FEMALE,other-service,other-relative,Minor Damage,NO,?,Front Collision,IL,Masters,Ford,1997,N
+43,FEMALE,machine-op-inspct,own-child,Major Damage,?,NO,Front Collision,IN,Associate,Jeep,2008,N
+42,MALE,tech-support,husband,Total Loss,YES,NO,Side Collision,IN,Associate,Saab,2012,N
+41,MALE,prof-specialty,unmarried,Minor Damage,NO,?,Rear Collision,OH,PhD,BMW,2004,Y
+33,FEMALE,armed-forces,not-in-family,Major Damage,?,YES,Side Collision,IL,JD,Nissan,2011,Y
+38,FEMALE,other-service,own-child,Minor Damage,YES,YES,Side Collision,IL,College,BMW,1997,N
+39,FEMALE,craft-repair,unmarried,Minor Damage,NO,?,Side Collision,OH,JD,Nissan,2012,N
+33,FEMALE,craft-repair,wife,Trivial Damage,NO,?,?,IN,Associate,Chevrolet,2013,Y
+40,FEMALE,transport-moving,not-in-family,Minor Damage,YES,YES,?,OH,PhD,Jeep,2003,N
+58,MALE,tech-support,other-relative,Major Damage,?,?,Rear Collision,OH,PhD,BMW,1997,Y
+36,FEMALE,priv-house-serv,own-child,Major Damage,?,YES,Side Collision,OH,MD,Ford,2009,N
+33,FEMALE,adm-clerical,not-in-family,Total Loss,YES,?,Front Collision,IL,High School,Accura,2008,N
+31,MALE,priv-house-serv,not-in-family,Total Loss,YES,NO,Rear Collision,IN,JD,Suburu,1999,N
+40,FEMALE,transport-moving,not-in-family,Trivial Damage,?,NO,?,OH,Associate,Toyota,1997,N
+25,FEMALE,handlers-cleaners,husband,Major Damage,YES,YES,Rear Collision,IN,JD,Ford,2013,Y
+39,FEMALE,sales,own-child,Minor Damage,NO,?,?,IN,College,BMW,2013,N
+42,MALE,machine-op-inspct,wife,Major Damage,YES,?,Side Collision,OH,Associate,Chevrolet,1996,N
+40,MALE,protective-serv,other-relative,Total Loss,?,NO,Front Collision,IL,College,BMW,2010,N
+31,FEMALE,handlers-cleaners,husband,Major Damage,?,NO,Rear Collision,IL,High School,BMW,2014,Y
+34,MALE,sales,wife,Minor Damage,YES,?,Side Collision,IL,High School,Mercedes,1998,N
+37,MALE,exec-managerial,unmarried,Minor Damage,?,YES,Rear Collision,IN,High School,Honda,2010,Y
+31,FEMALE,prof-specialty,wife,Total Loss,?,NO,Side Collision,IN,Associate,Mercedes,2009,N
+43,MALE,protective-serv,wife,Minor Damage,YES,YES,Front Collision,IL,College,Audi,2010,N
+39,FEMALE,handlers-cleaners,wife,Trivial Damage,?,?,?,IL,College,Dodge,2003,N
+35,FEMALE,adm-clerical,not-in-family,Minor Damage,YES,?,?,IL,MD,Nissan,2003,N
+27,MALE,transport-moving,other-relative,Major Damage,NO,?,Rear Collision,IN,High School,Accura,2006,N
+43,FEMALE,farming-fishing,not-in-family,Trivial Damage,NO,NO,?,IL,Masters,Audi,2008,N
+31,MALE,handlers-cleaners,own-child,Total Loss,YES,?,Side Collision,IL,Associate,Honda,2001,N
+44,MALE,sales,other-relative,Major Damage,YES,?,Rear Collision,IL,College,Jeep,2013,N
+40,MALE,transport-moving,wife,Trivial Damage,?,NO,?,IL,JD,Ford,1997,N
+47,MALE,priv-house-serv,husband,Minor Damage,YES,NO,Rear Collision,IN,High School,Accura,2001,N
+34,FEMALE,handlers-cleaners,wife,Major Damage,?,YES,Front Collision,OH,JD,Honda,2009,Y
+29,FEMALE,farming-fishing,own-child,Major Damage,?,YES,Side Collision,IL,PhD,Mercedes,1996,Y
+37,FEMALE,protective-serv,unmarried,Total Loss,NO,YES,Rear Collision,IN,Associate,Nissan,1998,Y
+37,MALE,machine-op-inspct,unmarried,Total Loss,?,YES,Rear Collision,OH,Associate,Suburu,1999,N
+36,MALE,armed-forces,husband,Total Loss,NO,NO,Side Collision,IL,Masters,BMW,2008,N
+41,FEMALE,sales,other-relative,Major Damage,NO,YES,Rear Collision,OH,PhD,Toyota,2014,Y
+26,MALE,sales,not-in-family,Major Damage,?,?,Front Collision,IN,MD,Honda,2001,Y
+33,FEMALE,handlers-cleaners,other-relative,Total Loss,?,?,Side Collision,OH,Associate,Suburu,2012,N
+59,MALE,protective-serv,own-child,Total Loss,?,NO,Side Collision,OH,PhD,Toyota,2014,N
+30,FEMALE,machine-op-inspct,unmarried,Minor Damage,YES,?,Side Collision,IL,Masters,BMW,2009,N
+42,FEMALE,transport-moving,wife,Minor Damage,NO,?,Rear Collision,IL,MD,Nissan,1998,N
+46,MALE,exec-managerial,not-in-family,Total Loss,NO,?,Side Collision,OH,High School,BMW,2009,N
+45,FEMALE,adm-clerical,wife,Total Loss,YES,?,Side Collision,IN,Associate,Accura,1998,N
+33,FEMALE,transport-moving,not-in-family,Minor Damage,?,?,Rear Collision,IL,High School,Toyota,2006,N
+30,MALE,protective-serv,other-relative,Major Damage,YES,YES,Side Collision,IN,Associate,Suburu,2006,Y
+37,FEMALE,sales,wife,Total Loss,YES,YES,Front Collision,IL,High School,Toyota,2005,N
+30,MALE,adm-clerical,husband,Major Damage,YES,YES,Rear Collision,IN,JD,Dodge,2010,N
+44,MALE,handlers-cleaners,husband,Total Loss,?,YES,Front Collision,IL,High School,BMW,2012,N
+50,FEMALE,priv-house-serv,other-relative,Total Loss,NO,NO,Rear Collision,OH,Masters,Audi,2015,N
+26,MALE,exec-managerial,not-in-family,Major Damage,YES,NO,Rear Collision,IL,College,Honda,2000,Y
+55,MALE,tech-support,not-in-family,Total Loss,YES,YES,Side Collision,IL,JD,Nissan,2010,N
+49,FEMALE,farming-fishing,own-child,Total Loss,YES,?,Front Collision,IL,High School,Volkswagen,2003,N
+47,MALE,craft-repair,own-child,Minor Damage,YES,?,Rear Collision,IN,PhD,Chevrolet,2014,N
+40,MALE,armed-forces,husband,Major Damage,?,YES,Side Collision,IN,MD,Audi,2002,Y
+31,MALE,protective-serv,own-child,Major Damage,NO,NO,Front Collision,IN,PhD,Honda,2009,Y
+28,MALE,machine-op-inspct,not-in-family,Major Damage,?,?,Side Collision,OH,Masters,Toyota,2005,N
+46,FEMALE,transport-moving,husband,Major Damage,?,NO,Front Collision,IL,PhD,Nissan,2004,Y
+25,FEMALE,tech-support,unmarried,Trivial Damage,NO,?,?,IN,JD,Nissan,2005,N
+26,FEMALE,prof-specialty,husband,Trivial Damage,?,?,?,IL,MD,Suburu,1995,N
+30,MALE,prof-specialty,wife,Total Loss,?,YES,Side Collision,OH,College,Ford,2004,N
+31,FEMALE,armed-forces,unmarried,Minor Damage,NO,YES,Rear Collision,IL,JD,BMW,2002,N
+39,MALE,armed-forces,unmarried,Minor Damage,NO,NO,Side Collision,OH,College,Chevrolet,2008,N
+37,MALE,tech-support,wife,Total Loss,YES,NO,Rear Collision,IL,Associate,Dodge,1999,N
+30,FEMALE,priv-house-serv,husband,Minor Damage,?,YES,Front Collision,IN,Associate,Saab,2000,N
+35,MALE,priv-house-serv,unmarried,Total Loss,?,?,Front Collision,IN,MD,Suburu,1996,N
+45,FEMALE,sales,wife,Total Loss,YES,NO,Side Collision,IL,JD,Audi,2014,Y
+42,FEMALE,craft-repair,wife,Minor Damage,YES,NO,Rear Collision,OH,Associate,BMW,2000,N
+26,MALE,armed-forces,own-child,Major Damage,?,YES,Rear Collision,IL,College,Suburu,2008,Y
+47,MALE,protective-serv,other-relative,Minor Damage,?,NO,?,IL,Masters,Ford,2011,N
+38,FEMALE,tech-support,unmarried,Total Loss,?,NO,Rear Collision,IN,Associate,Jeep,2012,Y
+28,MALE,transport-moving,unmarried,Minor Damage,YES,YES,Side Collision,IN,PhD,Jeep,2002,N
+56,MALE,machine-op-inspct,own-child,Minor Damage,YES,YES,Rear Collision,OH,Associate,Suburu,2002,N
+43,FEMALE,handlers-cleaners,husband,Total Loss,?,YES,Front Collision,IN,PhD,Mercedes,2005,N
+34,MALE,tech-support,not-in-family,Total Loss,YES,?,Side Collision,IL,JD,Audi,2009,N
+39,FEMALE,craft-repair,unmarried,Major Damage,?,NO,Front Collision,IL,MD,Accura,2002,Y
+43,FEMALE,tech-support,own-child,Minor Damage,YES,NO,Side Collision,OH,JD,Volkswagen,2011,N
+44,FEMALE,machine-op-inspct,other-relative,Major Damage,?,NO,Rear Collision,IL,Associate,Audi,2007,Y
+26,FEMALE,craft-repair,unmarried,Minor Damage,NO,?,Rear Collision,IN,High School,Honda,2011,N
+57,MALE,adm-clerical,own-child,Minor Damage,?,NO,Front Collision,OH,Masters,Suburu,2000,N
+27,FEMALE,adm-clerical,own-child,Minor Damage,YES,?,Front Collision,IN,High School,Volkswagen,1995,N
+43,FEMALE,prof-specialty,unmarried,Total Loss,NO,?,Rear Collision,OH,MD,Nissan,1997,N
+37,FEMALE,craft-repair,not-in-family,Major Damage,YES,YES,Side Collision,IL,MD,Ford,1995,N
+28,MALE,other-service,other-relative,Minor Damage,YES,?,Side Collision,OH,College,Suburu,2010,N
+33,MALE,adm-clerical,wife,Major Damage,?,?,Side Collision,IL,College,Jeep,2004,Y
+44,MALE,priv-house-serv,unmarried,Total Loss,NO,YES,Side Collision,OH,PhD,Saab,2005,N
+61,FEMALE,transport-moving,unmarried,Major Damage,YES,YES,Rear Collision,IN,Associate,Chevrolet,1997,Y
+24,FEMALE,priv-house-serv,other-relative,Major Damage,YES,?,Rear Collision,IN,College,Toyota,2011,Y
+30,MALE,prof-specialty,own-child,Trivial Damage,YES,NO,?,IN,MD,Saab,1999,N
+41,FEMALE,sales,own-child,Major Damage,NO,?,Side Collision,OH,Associate,Mercedes,2011,Y
+46,FEMALE,adm-clerical,own-child,Minor Damage,NO,YES,?,OH,High School,Volkswagen,2005,Y
+31,FEMALE,adm-clerical,wife,Minor Damage,?,NO,?,IN,Masters,BMW,2013,Y
+36,FEMALE,exec-managerial,own-child,Trivial Damage,?,?,?,IL,Masters,Volkswagen,2015,N
+47,FEMALE,adm-clerical,own-child,Minor Damage,NO,YES,Front Collision,OH,Associate,Toyota,1996,N
+19,FEMALE,craft-repair,wife,Minor Damage,?,?,Side Collision,IN,JD,Accura,2011,Y
+47,MALE,exec-managerial,other-relative,Major Damage,YES,?,Rear Collision,IL,PhD,Dodge,2002,N
+57,MALE,protective-serv,other-relative,Major Damage,YES,NO,Front Collision,IN,High School,Saab,1995,N
+41,FEMALE,farming-fishing,own-child,Total Loss,?,YES,Side Collision,OH,PhD,Honda,2015,N
+30,FEMALE,sales,husband,Total Loss,NO,?,Front Collision,IL,PhD,Suburu,2009,N
+31,FEMALE,armed-forces,wife,Minor Damage,YES,?,?,OH,JD,Honda,2002,Y
+53,MALE,transport-moving,unmarried,Minor Damage,?,YES,Side Collision,IL,College,Suburu,2012,N
+44,FEMALE,sales,other-relative,Total Loss,?,YES,Front Collision,IL,Masters,Volkswagen,2006,N
+29,FEMALE,craft-repair,own-child,Major Damage,?,NO,Rear Collision,OH,Associate,Dodge,2013,N
+26,MALE,other-service,not-in-family,Total Loss,?,?,Side Collision,OH,JD,Toyota,2009,N
+41,MALE,transport-moving,own-child,Minor Damage,?,?,Side Collision,IN,JD,Audi,2006,N
+32,MALE,other-service,other-relative,Major Damage,?,NO,Front Collision,OH,College,Mercedes,2013,Y
+41,FEMALE,craft-repair,own-child,Total Loss,?,?,Side Collision,IN,Associate,Audi,2014,N
+34,FEMALE,exec-managerial,other-relative,Minor Damage,YES,?,Front Collision,IL,PhD,Chevrolet,2012,N
+29,MALE,exec-managerial,not-in-family,Minor Damage,?,YES,Rear Collision,OH,PhD,Nissan,2004,Y
+46,MALE,armed-forces,unmarried,Minor Damage,YES,YES,Rear Collision,IL,JD,BMW,1995,Y
+41,FEMALE,protective-serv,own-child,Minor Damage,NO,YES,Front Collision,IL,Masters,Audi,2014,N
+30,MALE,prof-specialty,wife,Minor Damage,NO,YES,Front Collision,OH,High School,Ford,2007,N
+38,FEMALE,other-service,not-in-family,Major Damage,NO,?,Side Collision,OH,College,Mercedes,2014,N
+21,MALE,machine-op-inspct,wife,Total Loss,?,?,Front Collision,IN,Associate,Honda,2003,N
+36,MALE,machine-op-inspct,wife,Total Loss,YES,?,Side Collision,OH,JD,Nissan,1999,N
+33,FEMALE,priv-house-serv,own-child,Major Damage,YES,?,Front Collision,OH,JD,Suburu,2009,N
+35,FEMALE,exec-managerial,unmarried,Major Damage,YES,NO,Rear Collision,IL,JD,Saab,2005,N
+48,MALE,exec-managerial,other-relative,Total Loss,?,NO,Side Collision,IN,PhD,Toyota,2013,N
+36,FEMALE,prof-specialty,husband,Total Loss,NO,NO,Rear Collision,OH,High School,Saab,2003,N
+58,MALE,exec-managerial,own-child,Total Loss,?,?,Front Collision,OH,MD,Volkswagen,2009,N
+31,MALE,farming-fishing,own-child,Major Damage,NO,NO,Rear Collision,IN,High School,Accura,2011,Y
+31,FEMALE,machine-op-inspct,not-in-family,Minor Damage,YES,NO,?,OH,PhD,Accura,2015,N
+57,MALE,protective-serv,unmarried,Major Damage,NO,?,Side Collision,IN,High School,Ford,2012,N
+46,MALE,adm-clerical,wife,Minor Damage,YES,YES,Front Collision,IN,Masters,Jeep,2003,N
+27,FEMALE,prof-specialty,unmarried,Trivial Damage,?,YES,?,OH,High School,Saab,2015,N
+33,MALE,armed-forces,own-child,Minor Damage,NO,YES,Rear Collision,IN,MD,Chevrolet,2002,N
+53,FEMALE,priv-house-serv,not-in-family,Total Loss,YES,NO,Front Collision,OH,Masters,Jeep,2012,N
+46,MALE,transport-moving,own-child,Total Loss,YES,?,Front Collision,IL,MD,Ford,2008,N
+33,FEMALE,craft-repair,husband,Major Damage,YES,NO,Rear Collision,IN,College,Mercedes,2004,Y
+51,MALE,sales,other-relative,Minor Damage,?,NO,Side Collision,IN,Associate,Audi,2004,N
+60,FEMALE,armed-forces,unmarried,Minor Damage,NO,NO,Front Collision,OH,College,Chevrolet,2012,Y
+30,FEMALE,transport-moving,wife,Total Loss,?,NO,Side Collision,IN,College,Honda,1999,N
+41,MALE,adm-clerical,husband,Minor Damage,?,YES,Rear Collision,OH,MD,Toyota,1999,N
+45,FEMALE,machine-op-inspct,wife,Total Loss,?,NO,Side Collision,IN,High School,Suburu,2008,N
+40,MALE,exec-managerial,unmarried,Minor Damage,?,YES,Rear Collision,OH,Masters,Chevrolet,2001,N
+45,FEMALE,exec-managerial,unmarried,Trivial Damage,NO,NO,?,OH,College,Ford,1995,N
+43,FEMALE,adm-clerical,not-in-family,Minor Damage,?,NO,?,IN,Associate,BMW,2006,N
+29,FEMALE,machine-op-inspct,not-in-family,Trivial Damage,YES,YES,?,OH,High School,BMW,2005,N
+44,FEMALE,farming-fishing,not-in-family,Minor Damage,NO,NO,Front Collision,OH,College,Chevrolet,2008,N
+29,MALE,prof-specialty,own-child,Major Damage,?,YES,Front Collision,IL,Masters,Jeep,1995,N
+39,MALE,armed-forces,unmarried,Minor Damage,YES,?,?,OH,Associate,Dodge,1997,N
+32,FEMALE,machine-op-inspct,unmarried,Total Loss,NO,NO,Front Collision,OH,High School,Suburu,1999,N
+49,FEMALE,transport-moving,wife,Total Loss,?,YES,Rear Collision,OH,Masters,Mercedes,2005,N
+37,FEMALE,priv-house-serv,unmarried,Total Loss,YES,YES,Rear Collision,OH,JD,Jeep,2009,N
+44,MALE,priv-house-serv,unmarried,Trivial Damage,NO,NO,?,IN,High School,Jeep,2005,N
+33,FEMALE,exec-managerial,own-child,Minor Damage,NO,?,Side Collision,IL,JD,BMW,2007,N
+41,FEMALE,tech-support,husband,Major Damage,NO,?,Rear Collision,IN,College,Volkswagen,1996,N
+37,MALE,prof-specialty,other-relative,Total Loss,?,NO,Front Collision,IN,MD,Toyota,1995,N
+21,MALE,handlers-cleaners,husband,Major Damage,?,?,Front Collision,IN,High School,Toyota,2012,N
+48,FEMALE,other-service,wife,Minor Damage,?,?,Side Collision,IN,MD,Ford,2004,N
+31,MALE,machine-op-inspct,husband,Major Damage,?,YES,Front Collision,IN,Masters,Suburu,2000,Y
+34,FEMALE,exec-managerial,other-relative,Major Damage,?,?,Side Collision,OH,College,Chevrolet,1996,Y
+35,MALE,farming-fishing,not-in-family,Total Loss,NO,?,Front Collision,IL,Masters,BMW,2013,N
+31,FEMALE,priv-house-serv,own-child,Minor Damage,?,NO,Side Collision,IN,High School,Nissan,2011,N
+36,FEMALE,exec-managerial,other-relative,Major Damage,?,NO,Rear Collision,IL,Masters,Mercedes,2008,Y
+58,MALE,transport-moving,own-child,Total Loss,YES,NO,Front Collision,IN,Masters,Nissan,2014,N
+47,FEMALE,transport-moving,other-relative,Total Loss,YES,YES,Front Collision,IN,JD,Dodge,2001,N
+45,FEMALE,priv-house-serv,not-in-family,Total Loss,?,YES,Side Collision,OH,PhD,Saab,2005,N
+48,FEMALE,priv-house-serv,other-relative,Major Damage,YES,NO,Front Collision,OH,Masters,Audi,2005,Y
+34,MALE,priv-house-serv,wife,Minor Damage,?,YES,Front Collision,IL,College,Dodge,1999,N
+32,MALE,priv-house-serv,own-child,Major Damage,?,?,Rear Collision,OH,Associate,Honda,1995,N
+28,MALE,machine-op-inspct,wife,Total Loss,NO,NO,Side Collision,OH,MD,Dodge,1996,N
+23,MALE,exec-managerial,other-relative,Major Damage,?,?,Side Collision,IL,JD,Suburu,1997,N
+44,FEMALE,priv-house-serv,not-in-family,Trivial Damage,?,NO,?,OH,PhD,Mercedes,2005,Y
+40,FEMALE,other-service,own-child,Trivial Damage,NO,NO,?,IL,PhD,Audi,2004,N
+29,MALE,handlers-cleaners,unmarried,Trivial Damage,YES,YES,?,IN,JD,Nissan,2010,N
+31,MALE,protective-serv,not-in-family,Total Loss,NO,NO,Rear Collision,IN,Masters,Dodge,2006,N
+50,MALE,tech-support,own-child,Total Loss,NO,NO,Front Collision,OH,MD,Dodge,2008,N
+33,FEMALE,transport-moving,wife,Major Damage,YES,?,Side Collision,IN,PhD,Suburu,2001,Y
+34,FEMALE,protective-serv,not-in-family,Minor Damage,NO,?,?,IN,JD,Jeep,2002,N
+36,FEMALE,sales,other-relative,Minor Damage,NO,?,?,IN,Associate,Dodge,2014,N
+52,FEMALE,farming-fishing,unmarried,Total Loss,YES,?,Rear Collision,IN,High School,Chevrolet,1999,Y
+37,FEMALE,priv-house-serv,own-child,Total Loss,YES,YES,Rear Collision,IN,JD,Jeep,2005,N
+53,MALE,tech-support,wife,Minor Damage,YES,NO,Front Collision,IL,Associate,Chevrolet,2009,N
+32,FEMALE,adm-clerical,other-relative,Total Loss,NO,?,Front Collision,OH,PhD,Dodge,2013,N
+39,FEMALE,other-service,husband,Major Damage,?,NO,Rear Collision,IL,Masters,BMW,2007,N
+32,FEMALE,other-service,husband,Minor Damage,YES,?,Rear Collision,OH,PhD,Toyota,2012,N
+30,FEMALE,transport-moving,husband,Total Loss,NO,YES,Side Collision,IN,College,Chevrolet,2003,N
+33,FEMALE,priv-house-serv,unmarried,Trivial Damage,YES,NO,?,IL,College,Audi,1997,N
+37,FEMALE,transport-moving,husband,Total Loss,?,NO,Rear Collision,IL,Associate,Suburu,2003,N
+30,FEMALE,machine-op-inspct,not-in-family,Minor Damage,?,NO,Side Collision,IL,Associate,Chevrolet,2011,N
+43,MALE,adm-clerical,not-in-family,Minor Damage,YES,NO,Front Collision,IL,Associate,Ford,2007,N
+24,MALE,craft-repair,husband,Minor Damage,?,YES,?,IN,Masters,Dodge,2003,N
+28,MALE,transport-moving,own-child,Major Damage,?,YES,Side Collision,IL,Masters,Volkswagen,2011,Y
+51,FEMALE,priv-house-serv,unmarried,Total Loss,YES,?,Side Collision,OH,MD,Jeep,1997,N
+38,FEMALE,other-service,other-relative,Minor Damage,YES,?,Side Collision,IN,PhD,Accura,1995,N
+44,FEMALE,tech-support,other-relative,Minor Damage,NO,NO,Rear Collision,OH,High School,Volkswagen,1997,Y
+54,MALE,protective-serv,own-child,Minor Damage,YES,NO,Side Collision,IL,MD,Honda,2001,N
+57,FEMALE,tech-support,own-child,Major Damage,NO,?,Front Collision,IL,PhD,Suburu,2013,Y
+41,MALE,prof-specialty,wife,Total Loss,NO,NO,Side Collision,IL,JD,Saab,2013,N
+38,MALE,handlers-cleaners,other-relative,Total Loss,YES,?,Front Collision,OH,PhD,Nissan,2006,N
+33,FEMALE,handlers-cleaners,unmarried,Major Damage,?,?,Rear Collision,IL,Associate,BMW,1998,N
+34,FEMALE,transport-moving,wife,Major Damage,NO,YES,Side Collision,IN,Masters,Chevrolet,2007,N
+56,FEMALE,protective-serv,other-relative,Major Damage,?,?,Side Collision,IL,College,Volkswagen,2007,N
+37,FEMALE,farming-fishing,not-in-family,Minor Damage,?,NO,Front Collision,OH,High School,Volkswagen,2015,N
+35,FEMALE,protective-serv,not-in-family,Minor Damage,NO,NO,Side Collision,IL,PhD,Volkswagen,1996,N
+57,FEMALE,craft-repair,husband,Major Damage,?,NO,Front Collision,OH,JD,Nissan,2014,Y
+38,MALE,tech-support,unmarried,Minor Damage,YES,NO,Front Collision,IL,MD,Dodge,2003,N
+51,MALE,armed-forces,not-in-family,Total Loss,NO,YES,Side Collision,IL,PhD,BMW,2000,N
+49,FEMALE,farming-fishing,wife,Trivial Damage,NO,NO,?,IL,PhD,Nissan,2001,N
+42,MALE,exec-managerial,other-relative,Minor Damage,?,?,?,IL,JD,Toyota,2011,Y
+36,FEMALE,other-service,other-relative,Total Loss,NO,NO,Side Collision,OH,Masters,Nissan,2015,N
+29,MALE,adm-clerical,husband,Major Damage,NO,YES,Rear Collision,IL,High School,Saab,1998,Y
+56,MALE,farming-fishing,other-relative,Total Loss,?,YES,Side Collision,OH,MD,Saab,1996,Y
+53,MALE,armed-forces,unmarried,Minor Damage,NO,NO,?,IL,Masters,Mercedes,2001,Y
+46,MALE,sales,other-relative,Major Damage,NO,NO,Front Collision,IN,MD,Mercedes,1999,Y
+44,MALE,exec-managerial,wife,Major Damage,NO,NO,Rear Collision,IL,College,Ford,1999,N
+21,FEMALE,priv-house-serv,other-relative,Minor Damage,NO,?,Rear Collision,OH,Masters,Accura,2006,N
+30,MALE,handlers-cleaners,not-in-family,Major Damage,NO,?,Front Collision,IN,JD,Volkswagen,2004,Y
+40,MALE,armed-forces,unmarried,Minor Damage,YES,?,Rear Collision,IL,JD,BMW,2013,N
+56,MALE,armed-forces,own-child,Minor Damage,NO,?,Rear Collision,OH,High School,Jeep,2009,N
+28,MALE,adm-clerical,husband,Total Loss,?,?,Front Collision,IN,Associate,Nissan,1995,N
+29,MALE,other-service,husband,Total Loss,NO,?,Rear Collision,OH,High School,Chevrolet,2003,N
+24,FEMALE,armed-forces,other-relative,Minor Damage,?,NO,Rear Collision,IN,High School,Dodge,2012,N
+46,MALE,prof-specialty,own-child,Total Loss,NO,YES,Side Collision,IL,College,Mercedes,2013,N
+29,MALE,transport-moving,not-in-family,Total Loss,NO,?,Front Collision,OH,JD,Dodge,2005,Y
+33,MALE,armed-forces,unmarried,Minor Damage,YES,NO,?,OH,High School,Toyota,2005,N
+39,FEMALE,machine-op-inspct,unmarried,Minor Damage,YES,?,Front Collision,IL,High School,Jeep,2007,N
+49,MALE,machine-op-inspct,wife,Major Damage,NO,NO,Side Collision,OH,MD,Saab,2007,N
+43,FEMALE,adm-clerical,not-in-family,Minor Damage,?,NO,Rear Collision,IN,Masters,Chevrolet,2015,N
+47,FEMALE,armed-forces,own-child,Major Damage,NO,?,Rear Collision,OH,Associate,Dodge,2014,Y
+46,MALE,prof-specialty,unmarried,Minor Damage,?,?,Rear Collision,IN,PhD,Chevrolet,2013,N
+44,MALE,machine-op-inspct,husband,Trivial Damage,?,NO,?,IL,Associate,Accura,1999,N
+32,MALE,tech-support,wife,Minor Damage,?,NO,Rear Collision,OH,College,Accura,2002,N
+58,MALE,exec-managerial,not-in-family,Major Damage,?,?,Front Collision,IL,MD,Mercedes,1997,Y
+49,FEMALE,craft-repair,own-child,Minor Damage,YES,YES,Side Collision,IN,PhD,Saab,2013,N
+29,FEMALE,craft-repair,other-relative,Minor Damage,?,YES,Side Collision,OH,JD,Honda,2003,N
+39,MALE,tech-support,husband,Major Damage,NO,?,Side Collision,IN,Masters,Mercedes,2015,N
+38,FEMALE,armed-forces,husband,Major Damage,YES,NO,Side Collision,IL,Associate,Nissan,2005,N
+48,FEMALE,handlers-cleaners,own-child,Total Loss,?,?,Front Collision,IL,PhD,Accura,1999,N
+26,FEMALE,farming-fishing,wife,Major Damage,YES,NO,Rear Collision,OH,JD,Ford,2015,Y
+46,MALE,sales,other-relative,Minor Damage,NO,NO,Rear Collision,IL,MD,Jeep,1998,N
+24,FEMALE,tech-support,other-relative,Minor Damage,NO,?,Rear Collision,IL,PhD,Nissan,2011,N
+29,MALE,prof-specialty,husband,Minor Damage,NO,YES,Front Collision,IL,High School,Accura,2005,N
+24,FEMALE,machine-op-inspct,unmarried,Total Loss,?,NO,Front Collision,IN,High School,Honda,2003,N
+30,MALE,sales,unmarried,Total Loss,YES,NO,Rear Collision,IL,College,Mercedes,2002,N
+38,MALE,priv-house-serv,husband,Total Loss,NO,?,Rear Collision,OH,High School,Audi,2015,N
+48,FEMALE,sales,husband,Trivial Damage,?,NO,?,OH,JD,Volkswagen,2003,N
+34,MALE,other-service,not-in-family,Total Loss,?,YES,Rear Collision,IL,JD,Nissan,1997,N
+38,FEMALE,transport-moving,not-in-family,Minor Damage,?,NO,Side Collision,IL,College,Dodge,2013,Y
+60,FEMALE,other-service,husband,Total Loss,NO,NO,Rear Collision,IL,College,Honda,2001,N
+48,FEMALE,tech-support,other-relative,Total Loss,?,YES,Side Collision,OH,JD,Mercedes,2001,N
+27,FEMALE,adm-clerical,wife,Total Loss,?,YES,Front Collision,IN,College,Chevrolet,2004,N
+39,MALE,armed-forces,own-child,Major Damage,?,NO,Front Collision,IL,High School,Jeep,1999,Y
+41,MALE,protective-serv,other-relative,Minor Damage,NO,NO,Rear Collision,IL,JD,Jeep,2009,N
+43,FEMALE,tech-support,unmarried,Trivial Damage,NO,?,?,IL,Associate,Chevrolet,2014,N
+43,MALE,transport-moving,own-child,Total Loss,NO,?,Front Collision,IN,JD,Accura,2004,N
+26,FEMALE,farming-fishing,not-in-family,Total Loss,YES,?,Rear Collision,IL,PhD,Audi,2003,N
+42,MALE,farming-fishing,other-relative,Minor Damage,NO,YES,Rear Collision,IN,College,Honda,2005,N
+30,FEMALE,craft-repair,own-child,Total Loss,YES,YES,Rear Collision,OH,MD,Ford,2004,N
+46,FEMALE,tech-support,own-child,Minor Damage,NO,?,?,OH,Associate,Toyota,2004,N
+26,FEMALE,prof-specialty,own-child,Trivial Damage,YES,?,?,IL,JD,Jeep,1997,N
+45,FEMALE,prof-specialty,husband,Major Damage,NO,YES,Side Collision,IL,High School,Suburu,2013,N
+47,FEMALE,sales,other-relative,Trivial Damage,NO,NO,?,IN,Masters,Ford,2013,N
+54,FEMALE,machine-op-inspct,not-in-family,Total Loss,?,NO,Front Collision,IL,Associate,Jeep,2010,N
+34,FEMALE,sales,other-relative,Major Damage,YES,?,Front Collision,IN,High School,BMW,2010,Y
+48,FEMALE,sales,unmarried,Minor Damage,?,YES,Front Collision,IL,Masters,Chevrolet,1995,N
+53,FEMALE,prof-specialty,not-in-family,Major Damage,?,NO,Front Collision,IN,College,Accura,2000,N
+38,MALE,craft-repair,own-child,Total Loss,NO,YES,Front Collision,IL,PhD,Mercedes,2012,N
+49,MALE,adm-clerical,not-in-family,Minor Damage,NO,NO,?,IN,JD,Mercedes,2009,N
+42,FEMALE,armed-forces,wife,Total Loss,NO,YES,Rear Collision,OH,PhD,Nissan,2006,N
+23,FEMALE,sales,wife,Major Damage,NO,YES,Side Collision,OH,College,Accura,2005,Y
+46,MALE,tech-support,husband,Major Damage,?,YES,Front Collision,IL,MD,Volkswagen,2004,N
+55,FEMALE,priv-house-serv,other-relative,Minor Damage,YES,NO,Side Collision,IL,Associate,Nissan,1995,N
+63,MALE,adm-clerical,own-child,Minor Damage,YES,NO,?,IL,High School,Dodge,2007,Y
+44,FEMALE,prof-specialty,other-relative,Total Loss,NO,YES,Front Collision,IN,College,BMW,2015,N
+30,FEMALE,other-service,wife,Major Damage,?,NO,Front Collision,OH,PhD,Volkswagen,2011,N
+41,FEMALE,farming-fishing,other-relative,Trivial Damage,?,YES,?,OH,JD,Mercedes,2013,N
+31,FEMALE,prof-specialty,husband,Major Damage,YES,NO,Rear Collision,IL,MD,Saab,2014,N
+25,FEMALE,protective-serv,not-in-family,Minor Damage,YES,YES,Rear Collision,OH,Masters,Suburu,1996,N
+40,MALE,prof-specialty,husband,Minor Damage,YES,?,Front Collision,IN,MD,Honda,1996,Y
+29,FEMALE,sales,own-child,Major Damage,?,NO,Front Collision,IN,Associate,Suburu,2003,N
+43,MALE,prof-specialty,wife,Total Loss,?,?,Side Collision,IN,MD,Audi,2002,N
+50,MALE,armed-forces,unmarried,Major Damage,YES,YES,Side Collision,OH,MD,Ford,1995,Y
+38,MALE,tech-support,other-relative,Minor Damage,?,NO,?,IN,JD,Accura,2008,N
+29,MALE,armed-forces,own-child,Minor Damage,?,?,Rear Collision,OH,PhD,BMW,1996,N
+37,MALE,transport-moving,unmarried,Total Loss,?,NO,Side Collision,IN,High School,Volkswagen,1999,N
+53,MALE,armed-forces,wife,Minor Damage,YES,NO,Rear Collision,OH,Associate,Accura,2001,N
+51,MALE,handlers-cleaners,not-in-family,Minor Damage,YES,?,?,IL,Masters,Dodge,2009,Y
+53,FEMALE,tech-support,unmarried,Trivial Damage,YES,NO,?,IL,High School,Honda,2013,N
+40,FEMALE,sales,not-in-family,Minor Damage,YES,YES,Side Collision,IL,JD,Saab,2013,N
+51,MALE,transport-moving,wife,Major Damage,YES,NO,Rear Collision,IL,Masters,Volkswagen,2014,Y
+35,MALE,other-service,own-child,Trivial Damage,?,YES,?,IN,College,Ford,2011,N
+26,MALE,craft-repair,own-child,Minor Damage,NO,YES,?,IL,PhD,Accura,2004,N
+35,FEMALE,exec-managerial,not-in-family,Total Loss,NO,?,Side Collision,IL,College,Saab,2006,Y
+38,FEMALE,craft-repair,not-in-family,Minor Damage,?,?,Rear Collision,IN,PhD,Toyota,2011,N
+49,MALE,farming-fishing,own-child,Total Loss,YES,YES,Side Collision,IN,Masters,Chevrolet,2010,N
+41,MALE,protective-serv,wife,Minor Damage,NO,NO,Front Collision,OH,MD,Ford,2009,Y
+27,FEMALE,adm-clerical,own-child,Total Loss,?,?,Front Collision,IN,College,Ford,2008,N
+39,FEMALE,other-service,not-in-family,Minor Damage,YES,?,Rear Collision,IN,Associate,Dodge,1997,N
+33,FEMALE,protective-serv,own-child,Minor Damage,?,YES,Rear Collision,IN,JD,Jeep,2002,N
+50,FEMALE,exec-managerial,not-in-family,Minor Damage,NO,YES,Side Collision,OH,PhD,Saab,2002,N
+30,FEMALE,exec-managerial,unmarried,Minor Damage,NO,YES,Rear Collision,IN,High School,Toyota,2010,N
+54,MALE,craft-repair,wife,Major Damage,?,?,Front Collision,IN,High School,Ford,2010,Y
+42,MALE,machine-op-inspct,other-relative,Total Loss,YES,NO,Rear Collision,IN,JD,Chevrolet,2007,N
+35,MALE,craft-repair,own-child,Total Loss,NO,YES,Front Collision,IL,College,BMW,2008,N
+33,MALE,prof-specialty,unmarried,Total Loss,NO,NO,Rear Collision,OH,JD,Volkswagen,1998,N
+39,FEMALE,adm-clerical,own-child,Minor Damage,NO,YES,Side Collision,OH,JD,Jeep,2010,N
+33,FEMALE,other-service,wife,Major Damage,NO,?,Side Collision,OH,Masters,Dodge,2014,N
+54,MALE,farming-fishing,not-in-family,Major Damage,NO,YES,Rear Collision,OH,JD,Mercedes,2013,Y
+32,MALE,tech-support,wife,Total Loss,NO,NO,Side Collision,OH,JD,Chevrolet,2004,Y
+40,MALE,other-service,husband,Total Loss,YES,?,Front Collision,IN,PhD,Audi,2008,N
+46,MALE,other-service,wife,Minor Damage,?,NO,Front Collision,OH,MD,BMW,2012,N
+39,MALE,transport-moving,not-in-family,Major Damage,YES,?,Rear Collision,OH,High School,Saab,1996,Y
+52,MALE,machine-op-inspct,not-in-family,Total Loss,YES,YES,Rear Collision,IN,PhD,Toyota,2003,N
+34,MALE,machine-op-inspct,unmarried,Major Damage,?,NO,Side Collision,OH,PhD,Honda,2007,Y
+45,MALE,sales,own-child,Total Loss,NO,YES,Front Collision,IL,High School,Ford,2006,N
+31,MALE,protective-serv,husband,Major Damage,YES,?,Side Collision,IL,Associate,Audi,1999,N
+28,FEMALE,farming-fishing,other-relative,Minor Damage,YES,NO,Front Collision,OH,JD,Ford,2010,N
+41,MALE,protective-serv,unmarried,Minor Damage,NO,?,Rear Collision,OH,Masters,Toyota,2009,N
+27,FEMALE,priv-house-serv,wife,Trivial Damage,?,NO,?,IL,High School,Nissan,2007,N
+35,MALE,machine-op-inspct,wife,Minor Damage,?,NO,?,IL,MD,Chevrolet,2000,N
+30,MALE,sales,own-child,Trivial Damage,YES,YES,?,IN,College,Volkswagen,2013,N
+59,FEMALE,exec-managerial,not-in-family,Major Damage,?,NO,Front Collision,IL,JD,Chevrolet,1999,Y
+64,MALE,other-service,not-in-family,Major Damage,NO,NO,Front Collision,IN,Masters,Mercedes,2002,N
+25,FEMALE,priv-house-serv,husband,Total Loss,?,YES,Side Collision,IL,Associate,Saab,2011,N
+40,FEMALE,handlers-cleaners,husband,Total Loss,?,YES,Side Collision,OH,College,Ford,1999,N
+43,FEMALE,armed-forces,not-in-family,Major Damage,?,?,Rear Collision,IL,Associate,Honda,1996,Y
+41,FEMALE,machine-op-inspct,not-in-family,Total Loss,NO,?,Rear Collision,IN,College,Chevrolet,1995,N
+30,FEMALE,craft-repair,wife,Major Damage,YES,?,Side Collision,IN,JD,Toyota,2000,Y
+38,MALE,sales,wife,Major Damage,NO,YES,Side Collision,OH,High School,Mercedes,1996,N
+36,MALE,farming-fishing,own-child,Major Damage,YES,YES,Rear Collision,IN,JD,Ford,2001,N
+41,FEMALE,prof-specialty,other-relative,Trivial Damage,?,NO,?,IL,College,Dodge,2003,N
+29,FEMALE,priv-house-serv,unmarried,Trivial Damage,?,?,?,IL,JD,Mercedes,2008,Y
+41,FEMALE,sales,other-relative,Major Damage,?,YES,Front Collision,IL,High School,Saab,2007,N
+38,FEMALE,handlers-cleaners,other-relative,Major Damage,NO,?,Front Collision,OH,Masters,Saab,2003,N
+29,MALE,exec-managerial,other-relative,Minor Damage,?,NO,Side Collision,OH,High School,Nissan,2007,Y
+31,MALE,machine-op-inspct,wife,Minor Damage,?,?,Front Collision,IN,Masters,Ford,1997,N
+35,MALE,sales,own-child,Total Loss,NO,?,Rear Collision,IL,JD,Volkswagen,2008,Y
+27,FEMALE,adm-clerical,own-child,Trivial Damage,NO,?,?,IN,Masters,Toyota,2000,N
+27,MALE,armed-forces,other-relative,Minor Damage,?,YES,Side Collision,OH,JD,Toyota,2008,N
+44,MALE,machine-op-inspct,not-in-family,Minor Damage,NO,NO,Rear Collision,OH,High School,Accura,1997,N
+27,FEMALE,priv-house-serv,own-child,Total Loss,?,?,Side Collision,OH,Associate,Audi,2010,N
+39,FEMALE,exec-managerial,wife,Minor Damage,YES,?,?,IN,Masters,Accura,2003,N
+46,FEMALE,adm-clerical,wife,Total Loss,NO,?,Front Collision,OH,MD,Volkswagen,1996,N
+57,MALE,priv-house-serv,wife,Minor Damage,NO,YES,Front Collision,IL,Masters,Dodge,1995,N
+46,MALE,machine-op-inspct,husband,Minor Damage,NO,NO,Rear Collision,IN,Masters,Toyota,2006,N
+30,MALE,exec-managerial,unmarried,Minor Damage,?,?,Front Collision,IL,MD,Chevrolet,2005,N
+42,FEMALE,adm-clerical,not-in-family,Total Loss,?,YES,Rear Collision,IL,Associate,BMW,1998,N
+27,MALE,handlers-cleaners,not-in-family,Minor Damage,NO,YES,Front Collision,IN,High School,Volkswagen,2003,N
+33,MALE,sales,wife,Minor Damage,?,NO,?,IL,MD,Toyota,2010,N
+34,MALE,tech-support,other-relative,Total Loss,?,NO,Side Collision,IL,High School,Nissan,2000,N
+43,FEMALE,transport-moving,unmarried,Major Damage,?,?,Side Collision,IN,JD,Nissan,2007,Y
+26,MALE,tech-support,husband,Minor Damage,NO,?,Front Collision,IL,MD,Volkswagen,2010,N
+28,MALE,farming-fishing,husband,Total Loss,?,?,Rear Collision,OH,JD,Jeep,2006,N
+36,FEMALE,machine-op-inspct,own-child,Minor Damage,NO,?,Front Collision,IL,Associate,Saab,2006,N
+57,FEMALE,machine-op-inspct,husband,Minor Damage,?,NO,Side Collision,OH,MD,Volkswagen,2000,Y
+27,FEMALE,transport-moving,own-child,Minor Damage,?,YES,Side Collision,OH,Masters,Ford,1996,N
+28,MALE,protective-serv,wife,Trivial Damage,?,?,?,OH,MD,Jeep,2012,N
+42,MALE,machine-op-inspct,unmarried,Major Damage,?,NO,Rear Collision,IL,High School,Saab,1997,Y
+31,MALE,sales,not-in-family,Minor Damage,YES,NO,?,OH,Associate,Nissan,1996,N
+60,FEMALE,machine-op-inspct,own-child,Major Damage,YES,NO,Front Collision,IN,MD,Mercedes,1999,N
+50,MALE,sales,not-in-family,Major Damage,YES,NO,Side Collision,IL,Masters,Dodge,2010,N
+40,MALE,exec-managerial,husband,Trivial Damage,?,NO,?,IN,Associate,Toyota,2010,N
+39,FEMALE,protective-serv,wife,Major Damage,NO,YES,Front Collision,IN,JD,BMW,2014,Y
+47,FEMALE,craft-repair,wife,Total Loss,?,YES,Side Collision,IL,High School,Ford,1999,Y
+35,FEMALE,machine-op-inspct,other-relative,Minor Damage,?,NO,Front Collision,IN,MD,Chevrolet,2008,N
+37,FEMALE,prof-specialty,husband,Total Loss,NO,NO,Rear Collision,OH,Associate,Accura,2004,N
+45,MALE,transport-moving,not-in-family,Minor Damage,NO,NO,Front Collision,OH,Masters,Accura,2006,N
+29,FEMALE,craft-repair,husband,Major Damage,YES,NO,Rear Collision,OH,MD,Mercedes,1995,Y
+35,FEMALE,handlers-cleaners,husband,Major Damage,YES,YES,Side Collision,IL,Masters,Toyota,2001,N
+35,FEMALE,craft-repair,wife,Trivial Damage,?,YES,?,OH,High School,Chevrolet,1997,Y
+28,MALE,craft-repair,own-child,Minor Damage,YES,YES,?,OH,High School,Saab,1999,N
+45,MALE,craft-repair,unmarried,Trivial Damage,NO,?,?,IL,Masters,Suburu,1997,N
+34,FEMALE,priv-house-serv,husband,Major Damage,?,NO,Side Collision,OH,PhD,Audi,1997,Y
+48,MALE,adm-clerical,not-in-family,Minor Damage,?,?,Side Collision,IL,Associate,Nissan,2014,N
+38,FEMALE,armed-forces,husband,Total Loss,?,YES,Side Collision,OH,Masters,Dodge,2005,N
+55,FEMALE,other-service,unmarried,Total Loss,NO,NO,Rear Collision,OH,JD,Suburu,1998,N
+32,FEMALE,exec-managerial,husband,Major Damage,?,NO,Rear Collision,IL,High School,Saab,1995,N
+38,FEMALE,prof-specialty,not-in-family,Major Damage,NO,YES,Side Collision,IL,Masters,Audi,2001,Y
+40,MALE,armed-forces,wife,Minor Damage,?,?,Front Collision,IL,College,Volkswagen,2009,N
+43,FEMALE,adm-clerical,not-in-family,Total Loss,YES,YES,Rear Collision,OH,MD,Honda,2014,N
+36,MALE,exec-managerial,unmarried,Total Loss,NO,?,Front Collision,IN,High School,Dodge,2004,N
+40,MALE,craft-repair,husband,Minor Damage,NO,NO,Side Collision,IL,College,Suburu,2003,N
+32,MALE,other-service,other-relative,Trivial Damage,?,?,?,OH,Associate,Honda,2012,N
+32,MALE,tech-support,not-in-family,Total Loss,?,?,Side Collision,IL,MD,Dodge,1995,Y
+31,FEMALE,transport-moving,other-relative,Major Damage,NO,?,Side Collision,IL,High School,Ford,2013,Y
+27,FEMALE,handlers-cleaners,husband,Minor Damage,YES,NO,Front Collision,IN,College,Jeep,2008,N
+54,MALE,prof-specialty,wife,Major Damage,NO,?,Front Collision,OH,College,Audi,2007,Y
+29,FEMALE,adm-clerical,husband,Minor Damage,NO,YES,Side Collision,OH,High School,Jeep,1995,N
+20,FEMALE,craft-repair,other-relative,Minor Damage,NO,YES,Side Collision,IN,High School,Audi,2000,N
+34,MALE,handlers-cleaners,other-relative,Major Damage,YES,YES,Side Collision,OH,Associate,Ford,2001,N
+32,MALE,machine-op-inspct,other-relative,Trivial Damage,?,NO,?,OH,Associate,Ford,2010,N
+39,MALE,transport-moving,other-relative,Minor Damage,?,NO,Front Collision,IL,High School,Jeep,2010,Y
+43,FEMALE,machine-op-inspct,other-relative,Minor Damage,?,?,Rear Collision,OH,Associate,Nissan,2013,N
+32,MALE,sales,other-relative,Minor Damage,?,YES,Front Collision,IL,JD,Suburu,2010,N
+57,MALE,adm-clerical,unmarried,Total Loss,NO,NO,Front Collision,IN,College,Jeep,2012,N
+48,MALE,farming-fishing,husband,Major Damage,YES,?,Side Collision,OH,College,Dodge,2006,N
+37,FEMALE,armed-forces,not-in-family,Total Loss,YES,?,Front Collision,OH,PhD,Honda,2009,N
+33,FEMALE,adm-clerical,wife,Total Loss,NO,NO,Side Collision,IL,High School,Saab,1999,N
+46,FEMALE,prof-specialty,wife,Minor Damage,?,YES,Side Collision,OH,Masters,Accura,2000,N
+60,MALE,priv-house-serv,other-relative,Total Loss,NO,?,Front Collision,OH,Associate,Mercedes,2007,Y
+51,FEMALE,sales,not-in-family,Major Damage,?,YES,Side Collision,IL,Masters,BMW,2006,Y
+40,MALE,machine-op-inspct,husband,Total Loss,YES,NO,Rear Collision,OH,JD,Audi,1997,N
+47,MALE,machine-op-inspct,not-in-family,Major Damage,NO,YES,Rear Collision,IN,Masters,Toyota,2010,N
+57,MALE,transport-moving,husband,Major Damage,NO,NO,Rear Collision,OH,JD,Nissan,2003,N
+36,FEMALE,craft-repair,wife,Total Loss,?,?,Rear Collision,IN,MD,Jeep,2014,N
+43,MALE,sales,other-relative,Minor Damage,NO,?,Front Collision,IL,Masters,Ford,2002,N
+25,FEMALE,other-service,not-in-family,Minor Damage,YES,NO,Rear Collision,IN,Masters,Dodge,2000,N
+28,FEMALE,farming-fishing,wife,Major Damage,?,?,Rear Collision,IL,College,Dodge,2011,N
+38,MALE,adm-clerical,wife,Trivial Damage,NO,YES,?,OH,College,Toyota,1995,N
+29,MALE,tech-support,other-relative,Trivial Damage,NO,?,?,IL,High School,Jeep,2008,N
+29,MALE,adm-clerical,own-child,Minor Damage,YES,NO,Front Collision,OH,MD,Saab,2006,N
+31,MALE,other-service,husband,Trivial Damage,YES,?,?,IN,JD,Saab,2003,N
+45,FEMALE,machine-op-inspct,wife,Minor Damage,?,?,Front Collision,IL,High School,Ford,2010,N
+30,FEMALE,farming-fishing,own-child,Minor Damage,NO,NO,Side Collision,OH,Masters,Dodge,1997,N
+38,MALE,machine-op-inspct,not-in-family,Total Loss,?,YES,Front Collision,IN,MD,Accura,2001,N
+38,MALE,armed-forces,unmarried,Trivial Damage,YES,NO,?,IL,Associate,Honda,2015,N
+27,MALE,other-service,other-relative,Trivial Damage,NO,NO,?,OH,JD,Volkswagen,2009,N
+43,MALE,handlers-cleaners,wife,Total Loss,NO,NO,Rear Collision,OH,High School,Saab,1995,Y
+47,MALE,prof-specialty,wife,Major Damage,YES,NO,Front Collision,IN,College,Accura,1996,Y
+50,MALE,priv-house-serv,wife,Major Damage,NO,?,Rear Collision,OH,Masters,Chevrolet,2008,N
+35,FEMALE,tech-support,husband,Trivial Damage,NO,NO,?,IN,High School,Saab,1998,N
+41,MALE,transport-moving,not-in-family,Minor Damage,?,?,Rear Collision,IL,JD,Saab,1999,N
+47,MALE,exec-managerial,other-relative,Minor Damage,YES,YES,Side Collision,IN,High School,Audi,2002,N
+42,MALE,armed-forces,not-in-family,Major Damage,NO,?,Side Collision,OH,PhD,Saab,1996,N
+41,FEMALE,handlers-cleaners,own-child,Minor Damage,YES,NO,Front Collision,IL,PhD,BMW,1999,N
+38,FEMALE,tech-support,other-relative,Major Damage,?,NO,Front Collision,IL,High School,BMW,2007,Y
+35,MALE,prof-specialty,husband,Minor Damage,YES,NO,?,IN,JD,Jeep,2005,N
+36,MALE,machine-op-inspct,husband,Minor Damage,NO,YES,Side Collision,OH,PhD,Ford,1996,N
+30,FEMALE,protective-serv,husband,Total Loss,?,YES,Rear Collision,OH,High School,Audi,2013,N
+45,FEMALE,farming-fishing,wife,Trivial Damage,NO,NO,?,OH,Masters,Honda,2006,N
+36,MALE,transport-moving,unmarried,Total Loss,?,YES,Rear Collision,OH,College,Volkswagen,2006,N
+37,FEMALE,tech-support,unmarried,Major Damage,?,?,Rear Collision,OH,Associate,Nissan,2002,N
+31,FEMALE,other-service,husband,Trivial Damage,YES,NO,?,IN,Associate,Mercedes,2002,N
+38,FEMALE,transport-moving,husband,Total Loss,YES,?,Front Collision,OH,Masters,Saab,1998,Y
+31,FEMALE,tech-support,husband,Major Damage,NO,?,Front Collision,IL,MD,BMW,2003,Y
+33,FEMALE,exec-managerial,other-relative,Major Damage,NO,NO,Rear Collision,OH,Associate,Mercedes,1996,Y
+57,MALE,tech-support,wife,Minor Damage,YES,?,?,IL,High School,Volkswagen,2000,N
+41,MALE,sales,unmarried,Total Loss,?,NO,Rear Collision,IL,High School,Mercedes,2014,Y
+39,FEMALE,machine-op-inspct,own-child,Major Damage,YES,NO,Rear Collision,IL,Masters,Chevrolet,2015,Y
+45,FEMALE,tech-support,unmarried,Minor Damage,YES,NO,Side Collision,IN,JD,Accura,1995,Y
+43,FEMALE,handlers-cleaners,not-in-family,Minor Damage,YES,YES,Rear Collision,IN,Masters,Nissan,1997,N
+33,FEMALE,farming-fishing,husband,Minor Damage,YES,?,Rear Collision,OH,High School,Ford,2002,Y
+41,FEMALE,priv-house-serv,husband,Total Loss,NO,?,Rear Collision,OH,MD,Dodge,2004,Y
+46,MALE,handlers-cleaners,husband,Minor Damage,NO,?,Front Collision,OH,College,Volkswagen,2007,Y
+44,MALE,other-service,other-relative,Major Damage,NO,NO,Side Collision,IN,Associate,Ford,2012,Y
+30,MALE,protective-serv,own-child,Minor Damage,NO,NO,?,IL,JD,Jeep,2015,N
+62,FEMALE,protective-serv,own-child,Major Damage,?,NO,Side Collision,OH,MD,Saab,2012,Y
+23,MALE,transport-moving,own-child,Major Damage,NO,NO,Rear Collision,OH,High School,Chevrolet,2007,Y
+61,FEMALE,handlers-cleaners,wife,Major Damage,YES,?,Front Collision,IL,Masters,Mercedes,1998,N
+29,MALE,prof-specialty,other-relative,Major Damage,YES,YES,Rear Collision,IN,College,Chevrolet,2004,Y
+28,MALE,prof-specialty,wife,Total Loss,NO,YES,Front Collision,OH,MD,Dodge,1998,N
+28,MALE,priv-house-serv,other-relative,Minor Damage,NO,YES,Side Collision,OH,Masters,Accura,2000,N
+44,FEMALE,exec-managerial,husband,Minor Damage,YES,YES,Front Collision,OH,Masters,Audi,2002,N
+43,MALE,prof-specialty,own-child,Trivial Damage,NO,YES,?,IN,Associate,Volkswagen,2003,N
+58,MALE,craft-repair,own-child,Total Loss,YES,NO,Front Collision,IN,Associate,Dodge,2004,N
+34,MALE,sales,other-relative,Trivial Damage,?,YES,?,OH,Masters,Dodge,2015,N
+41,FEMALE,handlers-cleaners,unmarried,Major Damage,YES,NO,Side Collision,OH,Associate,Suburu,2005,Y
+29,MALE,prof-specialty,other-relative,Minor Damage,NO,NO,?,OH,Associate,Accura,2005,N
+43,MALE,prof-specialty,other-relative,Total Loss,NO,YES,Side Collision,IL,PhD,Chevrolet,2007,N
+39,FEMALE,tech-support,own-child,Minor Damage,?,YES,Rear Collision,OH,College,Dodge,1997,N
+43,MALE,adm-clerical,unmarried,Minor Damage,NO,YES,?,OH,PhD,Chevrolet,2011,N
+22,MALE,farming-fishing,not-in-family,Major Damage,YES,YES,Rear Collision,IN,JD,Suburu,2009,Y
+32,FEMALE,protective-serv,other-relative,Major Damage,?,?,Side Collision,IL,College,Chevrolet,1995,Y
+41,FEMALE,farming-fishing,own-child,Major Damage,?,YES,Front Collision,IN,College,Suburu,1999,Y
+31,FEMALE,prof-specialty,husband,Major Damage,NO,NO,Side Collision,IN,MD,Suburu,1997,N
+43,FEMALE,transport-moving,other-relative,Major Damage,?,YES,Side Collision,IN,High School,Toyota,2006,N
+26,FEMALE,prof-specialty,husband,Total Loss,YES,NO,Front Collision,OH,Associate,Saab,2007,N
+34,FEMALE,craft-repair,wife,Total Loss,?,NO,Rear Collision,IN,PhD,Dodge,1999,N
+43,MALE,adm-clerical,husband,Minor Damage,NO,?,Side Collision,IN,JD,Accura,2006,N
+45,FEMALE,exec-managerial,unmarried,Total Loss,NO,NO,Front Collision,IL,MD,Jeep,2015,N
+48,MALE,other-service,unmarried,Total Loss,NO,?,Rear Collision,OH,JD,Volkswagen,2001,N
+33,FEMALE,exec-managerial,husband,Total Loss,?,YES,Front Collision,IL,High School,Nissan,2006,N
+42,FEMALE,prof-specialty,own-child,Minor Damage,?,YES,Front Collision,OH,College,Honda,1998,N
+34,MALE,sales,not-in-family,Minor Damage,YES,NO,?,IN,Associate,Chevrolet,2003,N
+51,FEMALE,craft-repair,husband,Minor Damage,?,?,Rear Collision,IN,MD,Suburu,2007,N
+33,MALE,adm-clerical,not-in-family,Minor Damage,NO,NO,Rear Collision,OH,College,BMW,2004,N
+50,MALE,machine-op-inspct,not-in-family,Major Damage,NO,YES,Side Collision,IN,PhD,Volkswagen,2011,Y
+39,MALE,exec-managerial,husband,Major Damage,YES,YES,Front Collision,IN,PhD,Toyota,2012,Y
+55,MALE,sales,own-child,Major Damage,?,NO,Rear Collision,IN,MD,Dodge,2007,Y
+41,MALE,exec-managerial,unmarried,Major Damage,NO,NO,Rear Collision,IL,Masters,Mercedes,2008,Y
+39,FEMALE,armed-forces,not-in-family,Total Loss,YES,NO,Side Collision,OH,PhD,Audi,2010,N
+31,FEMALE,sales,own-child,Total Loss,NO,YES,Side Collision,IL,MD,Dodge,1995,N
+44,FEMALE,machine-op-inspct,husband,Major Damage,YES,?,Side Collision,IL,College,Jeep,2010,N
+38,FEMALE,tech-support,wife,Total Loss,NO,?,Side Collision,IL,MD,Ford,2003,N
+31,FEMALE,priv-house-serv,not-in-family,Minor Damage,NO,NO,?,OH,Associate,Mercedes,1995,N
+40,FEMALE,handlers-cleaners,not-in-family,Minor Damage,NO,YES,Side Collision,IL,PhD,Accura,2001,N
+55,MALE,machine-op-inspct,unmarried,Minor Damage,YES,NO,Rear Collision,IL,PhD,Chevrolet,1997,N
+58,MALE,sales,not-in-family,Total Loss,?,YES,Rear Collision,IN,JD,Mercedes,2004,N
+35,FEMALE,protective-serv,unmarried,Minor Damage,YES,?,Side Collision,IN,MD,Nissan,2012,N
+35,MALE,machine-op-inspct,wife,Major Damage,?,?,Side Collision,IL,High School,Dodge,1995,N
+32,MALE,prof-specialty,husband,Total Loss,?,YES,Rear Collision,IL,Masters,Jeep,1996,N
+36,MALE,machine-op-inspct,unmarried,Total Loss,YES,NO,Rear Collision,OH,College,Accura,1995,N
+60,MALE,prof-specialty,wife,Minor Damage,NO,NO,Front Collision,IN,High School,Saab,2005,N
+35,FEMALE,protective-serv,not-in-family,Minor Damage,?,?,Front Collision,OH,Associate,Nissan,1997,N
+31,FEMALE,armed-forces,unmarried,Minor Damage,?,?,Side Collision,OH,Masters,Nissan,1997,N
+57,MALE,protective-serv,wife,Major Damage,YES,?,Rear Collision,IL,College,Jeep,2007,Y
+43,MALE,craft-repair,wife,Major Damage,?,NO,Rear Collision,IL,PhD,Jeep,2015,Y
+30,FEMALE,adm-clerical,wife,Major Damage,?,YES,Front Collision,IN,College,Volkswagen,2015,Y
+50,FEMALE,handlers-cleaners,husband,Minor Damage,YES,NO,Rear Collision,IN,High School,Mercedes,2012,N
+37,FEMALE,adm-clerical,own-child,Total Loss,?,YES,Rear Collision,OH,JD,Suburu,2003,N
+39,FEMALE,prof-specialty,other-relative,Total Loss,YES,?,Rear Collision,IL,JD,Suburu,2007,N
+46,FEMALE,transport-moving,husband,Major Damage,YES,NO,Front Collision,IL,MD,Jeep,2001,N
+61,FEMALE,adm-clerical,unmarried,Minor Damage,YES,YES,Rear Collision,IL,High School,Suburu,2007,N
+37,MALE,armed-forces,other-relative,Total Loss,?,YES,Side Collision,IL,JD,Audi,2005,N
+46,FEMALE,prof-specialty,own-child,Minor Damage,NO,NO,Front Collision,IL,JD,Volkswagen,2011,N
+39,MALE,transport-moving,husband,Minor Damage,?,NO,Side Collision,IN,PhD,Chevrolet,1995,N
+37,FEMALE,tech-support,own-child,Total Loss,?,YES,Front Collision,OH,MD,Toyota,2000,N
+33,FEMALE,farming-fishing,own-child,Total Loss,YES,YES,Rear Collision,IN,College,Saab,1995,N
+28,MALE,machine-op-inspct,husband,Minor Damage,NO,YES,Side Collision,IL,High School,Toyota,2006,N
+32,FEMALE,tech-support,not-in-family,Trivial Damage,YES,?,?,IN,MD,Audi,2002,N
+61,FEMALE,protective-serv,other-relative,Minor Damage,NO,NO,Front Collision,IN,High School,Volkswagen,2003,N
+40,FEMALE,sales,own-child,Total Loss,?,YES,Rear Collision,IN,JD,Dodge,2003,N
+38,MALE,priv-house-serv,not-in-family,Total Loss,YES,YES,Front Collision,IL,PhD,Volkswagen,2003,N
+61,FEMALE,tech-support,wife,Minor Damage,?,NO,Rear Collision,IN,High School,Nissan,2005,N
+61,FEMALE,handlers-cleaners,not-in-family,Total Loss,?,YES,Front Collision,IN,Masters,Suburu,2009,N
+29,FEMALE,armed-forces,other-relative,Minor Damage,NO,?,Front Collision,IN,MD,Dodge,2009,N
+41,FEMALE,tech-support,other-relative,Minor Damage,NO,?,?,OH,Associate,Chevrolet,2011,N
+33,MALE,other-service,husband,Trivial Damage,NO,NO,?,IL,PhD,Nissan,2003,N
+48,FEMALE,machine-op-inspct,wife,Total Loss,NO,YES,Front Collision,IL,MD,BMW,2005,Y
+40,MALE,machine-op-inspct,husband,Major Damage,YES,?,Front Collision,IN,Associate,Ford,2008,Y
+27,MALE,priv-house-serv,unmarried,Minor Damage,YES,NO,Rear Collision,IL,College,Toyota,2012,N
+30,MALE,adm-clerical,husband,Minor Damage,NO,?,Front Collision,IN,College,Dodge,2007,N
+34,FEMALE,tech-support,wife,Major Damage,YES,YES,Front Collision,IL,College,Honda,1998,Y
+34,FEMALE,sales,not-in-family,Minor Damage,?,YES,Rear Collision,IN,JD,Volkswagen,2012,N
+39,MALE,tech-support,other-relative,Trivial Damage,YES,YES,?,OH,Masters,Nissan,2011,N
+32,FEMALE,prof-specialty,husband,Total Loss,YES,?,Rear Collision,IL,Associate,BMW,1995,Y
+39,MALE,armed-forces,husband,Total Loss,YES,NO,Rear Collision,OH,High School,Suburu,2015,N
+32,FEMALE,farming-fishing,wife,Total Loss,YES,NO,Side Collision,IN,Masters,Toyota,2003,N
+48,MALE,transport-moving,not-in-family,Minor Damage,NO,NO,Front Collision,IL,College,Saab,1995,N
+47,MALE,adm-clerical,unmarried,Total Loss,?,YES,Side Collision,IN,MD,Jeep,1999,N
+56,MALE,machine-op-inspct,own-child,Major Damage,?,?,Rear Collision,IN,Masters,Mercedes,2004,Y
+33,FEMALE,craft-repair,not-in-family,Minor Damage,YES,YES,Side Collision,OH,PhD,Toyota,2015,N
+24,FEMALE,armed-forces,unmarried,Major Damage,NO,?,Side Collision,OH,High School,Toyota,1999,N
+24,FEMALE,armed-forces,own-child,Trivial Damage,YES,?,?,IN,MD,Audi,1998,N
+30,MALE,transport-moving,unmarried,Minor Damage,YES,?,Rear Collision,IL,College,Accura,1999,N
+36,FEMALE,armed-forces,not-in-family,Minor Damage,?,YES,Rear Collision,IN,JD,Chevrolet,2000,N
+34,FEMALE,prof-specialty,other-relative,Total Loss,?,NO,Front Collision,IN,College,Chevrolet,2009,N
+29,FEMALE,machine-op-inspct,not-in-family,Minor Damage,YES,YES,Rear Collision,IN,Masters,Volkswagen,2014,Y
+46,MALE,craft-repair,unmarried,Trivial Damage,YES,YES,?,OH,MD,Toyota,1995,N
+42,MALE,machine-op-inspct,own-child,Minor Damage,NO,NO,Rear Collision,IN,Masters,Saab,2013,N
+37,MALE,prof-specialty,wife,Major Damage,YES,YES,Side Collision,IN,College,Nissan,2005,N
+38,FEMALE,protective-serv,unmarried,Minor Damage,NO,?,Rear Collision,IN,JD,Audi,1995,N
+34,FEMALE,protective-serv,other-relative,Total Loss,?,NO,Side Collision,IL,JD,Audi,2009,N
+33,MALE,other-service,husband,Major Damage,?,NO,Rear Collision,IN,Associate,Saab,2015,Y
+43,FEMALE,handlers-cleaners,own-child,Total Loss,NO,YES,Side Collision,IL,PhD,Ford,2012,N
+30,FEMALE,protective-serv,husband,Minor Damage,NO,YES,?,OH,Masters,Chevrolet,2013,N
+56,FEMALE,transport-moving,not-in-family,Minor Damage,NO,YES,Front Collision,IN,Masters,Accura,2005,Y
+48,FEMALE,prof-specialty,husband,Minor Damage,?,NO,?,OH,MD,Accura,2013,N
+25,FEMALE,tech-support,own-child,Total Loss,NO,YES,Front Collision,IL,Masters,Nissan,2010,N
+38,FEMALE,craft-repair,unmarried,Total Loss,?,NO,Rear Collision,IN,PhD,Volkswagen,2008,N
+30,FEMALE,adm-clerical,wife,Minor Damage,?,?,Side Collision,IL,College,Nissan,2006,N
+42,MALE,exec-managerial,husband,Major Damage,?,?,Rear Collision,IN,High School,Ford,2009,Y
+41,MALE,prof-specialty,wife,Trivial Damage,YES,?,?,IL,College,Chevrolet,2009,N
+47,MALE,prof-specialty,husband,Minor Damage,YES,?,Side Collision,IN,High School,Dodge,2009,N
+29,MALE,other-service,own-child,Trivial Damage,?,?,?,IL,High School,Audi,1999,N
+34,FEMALE,machine-op-inspct,not-in-family,Minor Damage,?,?,Side Collision,IN,PhD,Nissan,2011,N
+53,MALE,craft-repair,not-in-family,Minor Damage,?,YES,Front Collision,OH,JD,Honda,2006,N
+41,FEMALE,prof-specialty,not-in-family,Major Damage,NO,YES,Front Collision,OH,PhD,Volkswagen,1997,Y
+37,FEMALE,craft-repair,not-in-family,Total Loss,YES,NO,Rear Collision,IN,MD,Ford,2001,N
+49,FEMALE,transport-moving,husband,Total Loss,?,?,Front Collision,IL,JD,Volkswagen,2002,N
+32,FEMALE,priv-house-serv,own-child,Minor Damage,?,?,Front Collision,OH,PhD,Suburu,2006,N
+24,FEMALE,priv-house-serv,husband,Total Loss,NO,?,Side Collision,OH,MD,Suburu,1997,N
+28,FEMALE,prof-specialty,own-child,Major Damage,NO,NO,Rear Collision,OH,Associate,Audi,1995,N
+26,MALE,protective-serv,unmarried,Total Loss,YES,NO,Side Collision,OH,Masters,Jeep,2006,Y
+36,FEMALE,adm-clerical,own-child,Total Loss,NO,NO,Side Collision,IL,MD,Dodge,2009,N
+26,MALE,exec-managerial,other-relative,Major Damage,YES,?,Rear Collision,IL,JD,Audi,2009,Y
+46,FEMALE,prof-specialty,own-child,Minor Damage,YES,YES,?,IN,JD,Nissan,2007,N
+28,FEMALE,machine-op-inspct,other-relative,Total Loss,NO,?,Rear Collision,IN,JD,Ford,2011,N
+32,MALE,other-service,wife,Minor Damage,YES,YES,?,OH,PhD,Suburu,2005,N
+55,MALE,other-service,wife,Minor Damage,?,?,?,IN,JD,Mercedes,2015,N
+43,FEMALE,transport-moving,other-relative,Total Loss,NO,YES,Rear Collision,IN,JD,Nissan,2006,N
+24,FEMALE,machine-op-inspct,other-relative,Trivial Damage,NO,YES,?,IL,PhD,Audi,2001,Y
+34,FEMALE,armed-forces,husband,Major Damage,YES,?,Side Collision,OH,PhD,BMW,2000,Y
+43,MALE,protective-serv,own-child,Major Damage,NO,YES,Rear Collision,OH,Associate,Dodge,2011,N
+44,FEMALE,farming-fishing,own-child,Trivial Damage,NO,?,?,OH,High School,Chevrolet,1998,N
+39,MALE,craft-repair,unmarried,Minor Damage,?,YES,Rear Collision,OH,JD,Saab,1999,N
+44,FEMALE,tech-support,husband,Minor Damage,NO,?,?,IN,JD,BMW,2000,N
+48,MALE,protective-serv,wife,Major Damage,?,?,Front Collision,IL,Masters,Toyota,2002,Y
+47,FEMALE,prof-specialty,own-child,Minor Damage,NO,?,Side Collision,OH,Associate,Jeep,2014,N
+37,FEMALE,armed-forces,own-child,Major Damage,?,?,Side Collision,IN,Masters,Ford,2015,Y
+42,MALE,priv-house-serv,not-in-family,Total Loss,NO,?,Side Collision,IN,Associate,Toyota,2005,N
+43,FEMALE,sales,not-in-family,Minor Damage,YES,?,Side Collision,OH,Associate,Jeep,2010,N
+60,MALE,craft-repair,own-child,Major Damage,YES,YES,Side Collision,IN,MD,Volkswagen,2004,Y
+53,MALE,priv-house-serv,wife,Trivial Damage,NO,NO,?,IL,Associate,Saab,2001,N
+21,MALE,prof-specialty,not-in-family,Total Loss,YES,YES,Side Collision,IN,Associate,Accura,2014,N
+43,MALE,farming-fishing,not-in-family,Major Damage,NO,NO,Side Collision,OH,MD,Audi,2007,Y
+47,FEMALE,exec-managerial,wife,Total Loss,NO,NO,Side Collision,OH,MD,Mercedes,2000,N
+46,MALE,handlers-cleaners,husband,Minor Damage,NO,YES,Front Collision,OH,Associate,Nissan,1996,N
+36,FEMALE,machine-op-inspct,wife,Total Loss,NO,?,Side Collision,IN,College,Saab,2008,N
+36,MALE,armed-forces,own-child,Total Loss,?,YES,Rear Collision,IN,High School,Audi,2015,N
+45,MALE,tech-support,own-child,Minor Damage,?,NO,Side Collision,OH,Associate,Suburu,2012,N
+46,MALE,priv-house-serv,husband,Minor Damage,NO,NO,Front Collision,OH,MD,Toyota,2005,N
+43,FEMALE,tech-support,other-relative,Minor Damage,?,YES,Side Collision,OH,College,Nissan,2000,N
+30,MALE,exec-managerial,own-child,Total Loss,NO,?,Side Collision,IL,PhD,Suburu,2005,N
+42,FEMALE,adm-clerical,own-child,Minor Damage,NO,YES,Rear Collision,IN,MD,Accura,1999,N
+40,FEMALE,other-service,husband,Minor Damage,YES,YES,Side Collision,IL,Masters,Nissan,2006,N
+44,FEMALE,other-service,other-relative,Minor Damage,YES,?,Rear Collision,OH,College,Suburu,2009,N
+26,FEMALE,armed-forces,other-relative,Minor Damage,?,?,Front Collision,IL,Associate,Jeep,1996,N
+53,FEMALE,priv-house-serv,unmarried,Total Loss,YES,?,Front Collision,IL,Associate,Toyota,2000,N
+43,FEMALE,priv-house-serv,other-relative,Major Damage,?,YES,Rear Collision,IL,Associate,Dodge,2003,Y
+33,FEMALE,armed-forces,husband,Minor Damage,NO,NO,Front Collision,IN,JD,Accura,2014,N
+39,FEMALE,protective-serv,not-in-family,Total Loss,NO,YES,Rear Collision,OH,JD,Dodge,2008,N
+44,FEMALE,priv-house-serv,other-relative,Minor Damage,NO,YES,Front Collision,IL,College,Suburu,1999,Y
+27,MALE,farming-fishing,husband,Major Damage,YES,?,Rear Collision,OH,JD,Ford,2000,Y
+43,FEMALE,exec-managerial,not-in-family,Total Loss,?,?,Front Collision,IN,JD,Honda,2011,N
+34,FEMALE,prof-specialty,husband,Minor Damage,NO,YES,?,IN,JD,Jeep,2013,N
+45,FEMALE,machine-op-inspct,wife,Major Damage,YES,YES,Side Collision,OH,Associate,Ford,2001,Y
+49,FEMALE,armed-forces,own-child,Major Damage,?,YES,Rear Collision,IL,PhD,Chevrolet,2007,N
+39,FEMALE,sales,husband,Minor Damage,YES,YES,Side Collision,IN,JD,Mercedes,1995,N
+37,MALE,tech-support,unmarried,Major Damage,NO,NO,Side Collision,IL,MD,Jeep,2002,Y
+39,FEMALE,protective-serv,unmarried,Trivial Damage,YES,?,?,IN,Masters,Saab,2000,N
+57,MALE,priv-house-serv,other-relative,Total Loss,?,?,Front Collision,IN,MD,Saab,2008,N
+37,FEMALE,handlers-cleaners,not-in-family,Major Damage,YES,NO,Rear Collision,OH,PhD,Chevrolet,2015,Y
+47,MALE,priv-house-serv,other-relative,Total Loss,YES,?,Front Collision,IL,MD,Mercedes,2002,N
+34,MALE,priv-house-serv,wife,Major Damage,NO,NO,Front Collision,IN,MD,Dodge,2000,Y
+55,MALE,farming-fishing,wife,Major Damage,?,YES,Rear Collision,OH,MD,BMW,1998,Y
+30,FEMALE,machine-op-inspct,not-in-family,Total Loss,?,NO,Rear Collision,IL,High School,BMW,2011,N
+31,FEMALE,exec-managerial,not-in-family,Major Damage,YES,NO,Side Collision,OH,Associate,Audi,2005,Y
+48,MALE,transport-moving,not-in-family,Minor Damage,NO,?,Front Collision,IL,JD,BMW,1998,N
+45,MALE,other-service,husband,Total Loss,YES,?,Rear Collision,IL,JD,BMW,2004,N
+30,FEMALE,craft-repair,other-relative,Total Loss,NO,YES,Front Collision,IL,High School,Audi,2002,N
+55,MALE,armed-forces,husband,Minor Damage,NO,NO,?,IN,College,Honda,2002,N
+55,FEMALE,other-service,wife,Major Damage,YES,YES,Rear Collision,OH,MD,Accura,2011,N
+38,FEMALE,craft-repair,not-in-family,Major Damage,NO,NO,Side Collision,IL,Masters,Volkswagen,2007,N
+34,FEMALE,priv-house-serv,other-relative,Total Loss,YES,NO,Side Collision,IN,JD,Suburu,2012,N
+60,FEMALE,exec-managerial,other-relative,Total Loss,?,?,Rear Collision,IL,MD,Saab,2006,N
+35,MALE,adm-clerical,husband,Trivial Damage,?,NO,?,IL,Masters,Jeep,2001,N
+33,MALE,transport-moving,husband,Minor Damage,YES,?,?,OH,High School,Dodge,2011,N
+31,MALE,priv-house-serv,not-in-family,Minor Damage,?,?,?,IN,MD,Suburu,2000,N
+38,MALE,armed-forces,own-child,Major Damage,?,?,Front Collision,IL,High School,Saab,1998,Y
+45,MALE,exec-managerial,own-child,Trivial Damage,NO,YES,?,IN,Associate,Saab,2008,N
+39,FEMALE,exec-managerial,own-child,Minor Damage,NO,?,Front Collision,IL,JD,Jeep,2010,N
+43,FEMALE,sales,husband,Major Damage,NO,NO,Rear Collision,OH,PhD,Chevrolet,1998,N
+34,FEMALE,craft-repair,own-child,Minor Damage,YES,?,?,OH,Associate,Saab,1998,N
+33,MALE,sales,husband,Total Loss,YES,NO,Side Collision,OH,Associate,Mercedes,2000,N
+21,FEMALE,exec-managerial,own-child,Total Loss,YES,NO,Side Collision,IN,High School,Nissan,1998,N
+28,MALE,handlers-cleaners,other-relative,Minor Damage,NO,NO,Side Collision,IL,JD,Honda,1997,N
+30,MALE,armed-forces,wife,Minor Damage,YES,NO,Side Collision,IN,PhD,Volkswagen,1996,N
+27,FEMALE,tech-support,husband,Total Loss,YES,YES,Side Collision,OH,High School,Saab,2014,N
+31,MALE,adm-clerical,other-relative,Major Damage,NO,?,Side Collision,IN,Associate,Chevrolet,2002,Y
+43,MALE,priv-house-serv,own-child,Major Damage,NO,YES,Rear Collision,OH,JD,BMW,2011,N
+53,FEMALE,priv-house-serv,husband,Minor Damage,?,?,Front Collision,OH,High School,Saab,2005,N
+44,MALE,priv-house-serv,not-in-family,Minor Damage,YES,?,?,OH,MD,Honda,2010,N
+38,FEMALE,transport-moving,not-in-family,Total Loss,?,NO,Rear Collision,IN,Masters,Jeep,2010,N
+48,FEMALE,sales,wife,Minor Damage,NO,YES,Side Collision,IL,College,Nissan,2012,N
+26,MALE,exec-managerial,other-relative,Total Loss,?,YES,Front Collision,IN,JD,Jeep,2001,N
+36,MALE,exec-managerial,not-in-family,Major Damage,YES,YES,Rear Collision,OH,Masters,Accura,2006,Y
+45,MALE,craft-repair,not-in-family,Minor Damage,?,NO,Side Collision,IL,MD,Honda,2011,N
+36,FEMALE,transport-moving,own-child,Major Damage,YES,YES,Front Collision,OH,JD,Honda,1998,N
+37,FEMALE,sales,wife,Major Damage,YES,?,Rear Collision,OH,High School,Mercedes,1997,Y
+38,MALE,adm-clerical,husband,Trivial Damage,?,YES,?,OH,High School,Honda,1999,N
+41,MALE,tech-support,not-in-family,Major Damage,NO,NO,Side Collision,OH,PhD,Mercedes,2009,N
+36,MALE,prof-specialty,wife,Minor Damage,YES,?,Front Collision,IL,College,Toyota,1998,N
+33,MALE,protective-serv,own-child,Minor Damage,YES,?,Rear Collision,IL,High School,Dodge,1995,Y
+40,MALE,transport-moving,not-in-family,Total Loss,NO,YES,Rear Collision,OH,JD,Accura,2000,N
+38,FEMALE,other-service,wife,Minor Damage,NO,NO,Rear Collision,IL,College,BMW,2011,N
+35,MALE,priv-house-serv,wife,Minor Damage,NO,NO,?,IL,MD,Nissan,1998,N
+31,FEMALE,other-service,not-in-family,Total Loss,YES,YES,Rear Collision,OH,PhD,Accura,2007,N
+30,FEMALE,farming-fishing,wife,Minor Damage,NO,NO,Rear Collision,IN,MD,Honda,2003,N
+46,FEMALE,adm-clerical,husband,Minor Damage,?,NO,?,IL,Associate,Jeep,2010,N
+38,FEMALE,transport-moving,own-child,Total Loss,?,YES,Front Collision,IN,Masters,BMW,2005,Y
+32,MALE,prof-specialty,unmarried,Major Damage,YES,YES,Front Collision,IL,Masters,Dodge,2008,Y
+30,MALE,priv-house-serv,other-relative,Trivial Damage,YES,?,?,IN,Associate,Audi,1998,N
+32,FEMALE,sales,not-in-family,Major Damage,YES,NO,Side Collision,IN,JD,Toyota,2008,Y
+48,FEMALE,adm-clerical,unmarried,Major Damage,YES,NO,Rear Collision,IN,JD,Saab,1996,Y
+34,FEMALE,sales,husband,Total Loss,NO,?,Side Collision,OH,College,Nissan,2000,N
+44,MALE,craft-repair,other-relative,Minor Damage,?,YES,Side Collision,IL,JD,Honda,1996,N
+37,FEMALE,machine-op-inspct,husband,Minor Damage,YES,?,Side Collision,IL,Masters,Dodge,2008,N
+31,FEMALE,armed-forces,own-child,Major Damage,NO,?,Rear Collision,OH,College,Toyota,2010,N
+34,FEMALE,priv-house-serv,husband,Total Loss,?,YES,Side Collision,OH,JD,Toyota,2005,Y
+40,MALE,protective-serv,other-relative,Minor Damage,?,?,Front Collision,OH,High School,Honda,2003,N
+59,FEMALE,protective-serv,wife,Total Loss,?,YES,Front Collision,IN,High School,Jeep,1995,N
+31,FEMALE,prof-specialty,own-child,Major Damage,?,?,Front Collision,IN,PhD,Toyota,2013,Y
+45,FEMALE,other-service,unmarried,Major Damage,?,?,Rear Collision,IN,MD,Dodge,2011,Y
+47,FEMALE,craft-repair,own-child,Minor Damage,?,YES,?,OH,Associate,Suburu,2002,N
+48,FEMALE,machine-op-inspct,husband,Major Damage,?,?,Side Collision,IL,PhD,Volkswagen,1998,N
+31,FEMALE,other-service,own-child,Minor Damage,NO,NO,?,IN,PhD,Volkswagen,1998,N
+57,FEMALE,armed-forces,own-child,Minor Damage,YES,NO,Front Collision,IN,Associate,Audi,2015,N
+42,MALE,prof-specialty,own-child,Total Loss,YES,YES,Side Collision,IL,Associate,Jeep,2005,N
+56,MALE,handlers-cleaners,own-child,Total Loss,NO,NO,Front Collision,IL,High School,Suburu,1997,N
+32,FEMALE,other-service,wife,Major Damage,?,?,Side Collision,IL,JD,Audi,1997,Y
+63,FEMALE,sales,own-child,Minor Damage,NO,?,Side Collision,IL,Masters,Suburu,2015,N
+31,MALE,sales,not-in-family,Total Loss,NO,NO,Front Collision,OH,Masters,Suburu,2011,N
+55,FEMALE,tech-support,wife,Total Loss,?,YES,Side Collision,OH,PhD,Ford,2010,N
+27,FEMALE,transport-moving,unmarried,Minor Damage,NO,NO,?,IL,College,Toyota,2001,N
+37,FEMALE,protective-serv,not-in-family,Total Loss,?,?,Side Collision,IN,Masters,Nissan,2000,N
+46,FEMALE,handlers-cleaners,own-child,Total Loss,NO,NO,Front Collision,IN,JD,Audi,2014,N
+43,MALE,protective-serv,not-in-family,Minor Damage,NO,YES,?,IN,High School,Volkswagen,2012,N
+39,FEMALE,craft-repair,other-relative,Minor Damage,YES,?,Rear Collision,IN,JD,Honda,2004,N
+38,MALE,craft-repair,unmarried,Total Loss,YES,NO,Side Collision,OH,JD,Nissan,2013,N
+32,MALE,machine-op-inspct,not-in-family,Total Loss,YES,YES,Side Collision,IN,Masters,Toyota,2003,N
+42,FEMALE,priv-house-serv,other-relative,Minor Damage,NO,NO,Rear Collision,IL,High School,Chevrolet,1995,N
+25,MALE,priv-house-serv,wife,Major Damage,NO,NO,Front Collision,OH,Masters,Dodge,1995,N
+35,FEMALE,protective-serv,husband,Minor Damage,NO,YES,?,OH,High School,Saab,2008,N
+34,FEMALE,protective-serv,husband,Minor Damage,NO,YES,Rear Collision,IL,JD,Toyota,2005,N
+35,FEMALE,adm-clerical,husband,Trivial Damage,?,?,?,IN,Associate,Accura,2012,N
+37,FEMALE,transport-moving,unmarried,Total Loss,NO,?,Rear Collision,OH,PhD,Chevrolet,2013,N
+30,FEMALE,protective-serv,other-relative,Minor Damage,NO,YES,?,OH,MD,BMW,2006,N
+37,FEMALE,craft-repair,own-child,Minor Damage,?,YES,?,IN,High School,Volkswagen,2008,Y
+26,MALE,handlers-cleaners,other-relative,Minor Damage,?,NO,Front Collision,IL,Masters,BMW,1995,N
+29,FEMALE,sales,own-child,Minor Damage,YES,?,Rear Collision,OH,MD,Jeep,1998,N
+32,FEMALE,protective-serv,own-child,Major Damage,YES,NO,Rear Collision,OH,Associate,Nissan,2014,Y
+50,FEMALE,tech-support,other-relative,Major Damage,NO,YES,Side Collision,OH,MD,Accura,2003,N
+55,MALE,adm-clerical,unmarried,Trivial Damage,?,?,?,OH,High School,Accura,2012,N
+35,MALE,tech-support,husband,Total Loss,YES,YES,Side Collision,OH,MD,Ford,2007,N
+25,FEMALE,priv-house-serv,not-in-family,Total Loss,NO,?,Front Collision,OH,Associate,Mercedes,1995,N
+44,MALE,other-service,wife,Major Damage,?,YES,Rear Collision,OH,College,Jeep,2002,Y
+37,MALE,tech-support,own-child,Major Damage,YES,?,Rear Collision,IL,PhD,Suburu,1996,Y
+41,FEMALE,transport-moving,wife,Major Damage,NO,?,Side Collision,IN,JD,Chevrolet,2007,Y
+40,FEMALE,protective-serv,own-child,Total Loss,YES,?,Rear Collision,IN,JD,Ford,2008,N
+33,FEMALE,craft-repair,unmarried,Major Damage,?,?,Side Collision,OH,Associate,Accura,2002,N
+42,MALE,adm-clerical,other-relative,Major Damage,?,NO,Side Collision,IN,Associate,Suburu,2015,Y
+32,FEMALE,craft-repair,unmarried,Total Loss,?,YES,Front Collision,IN,High School,Dodge,1999,N
+37,FEMALE,farming-fishing,not-in-family,Total Loss,NO,YES,Rear Collision,IN,Masters,Saab,2004,N
+40,MALE,handlers-cleaners,unmarried,Minor Damage,YES,YES,Rear Collision,IL,PhD,Suburu,1999,N
+44,MALE,handlers-cleaners,unmarried,Total Loss,?,NO,Front Collision,OH,College,Dodge,2008,N
+43,MALE,exec-managerial,other-relative,Minor Damage,?,YES,Front Collision,IN,High School,BMW,2011,Y
+39,FEMALE,adm-clerical,unmarried,Trivial Damage,?,?,?,IL,JD,Suburu,2002,N
+36,MALE,other-service,husband,Total Loss,YES,NO,Side Collision,IN,MD,Toyota,2013,N
+32,MALE,other-service,wife,Major Damage,?,?,Side Collision,OH,High School,Jeep,1995,N
+42,MALE,handlers-cleaners,not-in-family,Minor Damage,YES,?,Rear Collision,IN,College,Toyota,2015,Y
+39,MALE,craft-repair,other-relative,Major Damage,?,?,Side Collision,IL,JD,Chevrolet,2012,Y
+46,FEMALE,armed-forces,wife,Minor Damage,YES,NO,Rear Collision,IN,High School,Honda,1997,N
+21,FEMALE,exec-managerial,husband,Total Loss,YES,?,Rear Collision,IN,High School,Chevrolet,2015,N
+43,FEMALE,prof-specialty,unmarried,Minor Damage,?,YES,Rear Collision,IL,MD,Jeep,2013,N
+44,MALE,other-service,other-relative,Total Loss,NO,NO,Rear Collision,OH,MD,Accura,2002,N
+26,MALE,exec-managerial,husband,Major Damage,YES,YES,Front Collision,IN,MD,Nissan,2010,N
+28,MALE,exec-managerial,husband,Total Loss,?,?,Side Collision,OH,MD,Volkswagen,2012,N
+30,MALE,sales,own-child,Minor Damage,?,YES,?,IN,High School,Honda,1996,N
+38,FEMALE,craft-repair,unmarried,Minor Damage,YES,?,Front Collision,OH,Masters,Honda,2006,N
+41,FEMALE,prof-specialty,wife,Major Damage,YES,?,Rear Collision,IL,PhD,Volkswagen,2015,N
+34,FEMALE,armed-forces,other-relative,Minor Damage,?,YES,Side Collision,OH,Masters,Suburu,1996,N
+62,MALE,handlers-cleaners,wife,Major Damage,?,YES,Rear Collision,IL,Associate,Audi,1998,N
+60,FEMALE,sales,husband,Minor Damage,?,?,?,OH,Associate,Mercedes,2007,N
