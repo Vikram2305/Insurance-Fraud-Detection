@@ -29,7 +29,6 @@ import pickle
 
 # Load the data
 df = pd.read_csv("insurance_claims.csv")
-
 df.head()
 df.isnull().sum()
 df.info()
