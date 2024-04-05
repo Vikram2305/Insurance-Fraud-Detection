@@ -28,10 +28,10 @@ def Fraud_detection(input_data):
     st.markdown(f"<p style='color:{color};'>Likelihood of Fraud: {predicted_probabilities[0][1] * 100:.2f}%</p>", unsafe_allow_html=True)
     print(predicted_fraud)
 
-    if (predicted_fraud[0] == 0):
-      return f'The Model has been successfully predicted that claim may be  GENUINE  with the confidence level of: {predicted_probabilities[0][0] * 100:.2f}'
+    if predicted_fraud[0] == 0:
+        return f'The model has determined the claim to be **VALID** with a confidence level of {confidence_level * 100:.2f}%.'
     else:
-      return f'The Model has been successfully predicted that claim may be  FRAUD with the confidence level of: {predicted_probabilities[0][1] * 100:.2f}'
+        return f'The model has flagged the claim as **SUSPICIOUS** with a confidence level of {confidence_level * 100:.2f}%. Investigation recommended.'
 
 # Streamlit app
 def main():
@@ -119,33 +119,9 @@ def main():
 
     col1, col2,col3= st.columns([17,5,15])
 
-    # with col2:
-    
-    #     # st.markdown("<button style='display: block; margin: 0 auto;'>Make Predictions</button>", unsafe_allow_html=True)
-    #     st.write(" ")
-    #     st.write(" ")
-
-    # submitted = st.button('Make Predictions')
-  
-    # if submitted:
-    #     st.markdown("""
-    #         <style>
-    #             div.stButton > button {
-    #                 align
-    #                 box-shadow: none;
-    #                 border: none;
-    #             }
-    #         </style>
-    #     """, unsafe_allow_html=True)
-    #     # Call your prediction function here
-    #     pred = Fraud_detection(user_input)
-    #     pred = "Prediction result"
-    #     # st.success(pred)
-
     with col2:
         with st.form(key='user_input_form1'):
             submitted = st.form_submit_button('Make Predictions')
-
 
     with st.form(key='user_input_form'):
         if submitted==True:
