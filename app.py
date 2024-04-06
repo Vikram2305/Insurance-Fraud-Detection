@@ -33,10 +33,8 @@ def Fraud_detection(input_data):
 
 # Streamlit app
 def main():
-    # col1,col2 =st.columns([7,3])
-
     with st.sidebar:
-        option=option_menu(None,options=["Home","Prediction"], orientation='horizontal', icons=["bi bi-house-door", 'bi bi-graph-up'])
+        option=option_menu(None,options=["Home","Prediction"], orientation='vertical', icons=["bi bi-house-door", 'bi bi-graph-up'])
     if option=="Home":
         st.markdown("<h1 style='text-align: center;'>Fraud Detection Web Application</h1>", unsafe_allow_html=True)
         st.markdown("<h2>Welcome to the Insurance Fraud Detection Web Application</h2>", unsafe_allow_html=True)
